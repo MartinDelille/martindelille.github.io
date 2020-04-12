@@ -7,6 +7,8 @@ tags:
 
 This morning *F...book* reminded me that seven year ago I pushed [my first open source project](https://github.com/atelierdesmedias/Autofacto) on *Github*. It was not a big project and it isn't even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won't last in the history of software but it was a relatevely cool project anyway.
 
+![Open source logo](/images/opensource.png){: .align-center}
+
 My coworker in charge of the accountability was spending two hours every months to send an invoice to each coworker using a template and filling the appropriate info. It wasn't a very interesting task but it has to be done because each coworker need a bill for the rent.
 
 I remind me thinking on how to automate the process by writing a simple document describing the process. I submited it to my coworkers and one of them wondered why I wanted a validation about changing the process: "If you want to change the way we send bill, just do it!". Since I had some experience on [Google Apps Script](https://developers.google.com/apps-script/), I managed to easily parse a spreadsheet containing all my colleague information (name, billing adress, formula, ...), fill the invoice template, export it in *PDF* and send it by email.
