@@ -2,3 +2,36 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: "Martin Delille"
 description: "The blog I always dreamed to write."
 logo: "/images/martindelille.jpg"
+
+twitter:
+  username: martinodelilo
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Taxonomy pages
+tag_archive_path: "/tags/#"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Site Author
+author:
+  name: Martin Delille
+  picture: /images/martindelille.jpg
+  email: martin@delille.io
+  twitter: martinodelilo
+  links:
+    - title: Twitter
+      url: https://twitter.com/martinodelilo
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/martindelille
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/martindelille
+      icon: fab fa-github-square

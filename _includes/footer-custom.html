@@ -1,0 +1,13 @@
+  {%- if site.author.links -%}
+    <div class="social-icons">
+      {%- for link in site.author.links -%}
+        {%- if link.url contains "://" -%}
+          {%- assign url = link.url -%}
+        {%- else -%}
+          {%- assign url = link.url | relative_url -%}
+        {%- endif -%}
+        <a class="social-icon" href="{{ url }}"><i class="{{ link.icon | default: 'fas fa-link' }} fa-2x" title="{{ link.title }}"></i></a>
+      {%- endfor -%}
+      <a class="social-icon" href="atom.xml"><i class="fas fa-rss-square fa-2x" title="Feed"></i></a>
+    </div>
+  {%- endif -%}
