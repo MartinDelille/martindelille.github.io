@@ -40,3 +40,10 @@ Basically it has been a source of learning of many learning:
 
 I also earn a lot of control on systems in general.
 
+![Don Quichote](/images/donquichote.jpg)
+
+Seven years after, I still have trouble not starting a war against private software but at least I made some concession: we live in a world were private company owns the means of production and I'm not going to change that. I just keep going publishing my work because I still don't see no valid reason not doing it.
+
+My dream is intact then, but I know I'll alway be a weirdo to most people because it would need to much time to explain and people just don't want to suffer even the sumary of seven years of thought about it so I don't know if I need to close my source but at least I really need to learn how to shut up and this confinment situation is a good time for that.
+
+Thanks for reading until there!
