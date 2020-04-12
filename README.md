@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my blog source code
 
-You can use the [editor on GitHub](https://github.com/MartinDelille/martindelille.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here are the various way you can contribute to it:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Make a pull request
+
+You can evenly use the [editor on GitHub](https://github.com/MartinDelille/martindelille.github.io/edit/master/README.md) to maintain and preview the content for the file that you want to fix.
+
+You can also clone the repository and fix it locally then push it on a fork and submit the pull request.
+
+Here are the step for a local development environment:
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
+I wrote a [Makefile](Makefile) with additional options for conveniancy.
 
 ### Markdown
 
@@ -28,10 +41,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Theme
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MartinDelille/martindelille.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This jekyll instance use the [So Simple theme from mmistakes](https://github.com/mmistakes/so-simple-theme/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the content I wrote or anything? Want to talk? [Drop an issue!](https://github.com/MartinDelille/martindelille.github.io/issues/new)
