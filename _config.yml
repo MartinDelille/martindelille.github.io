@@ -3,7 +3,14 @@ title: "Martin Delille"
 description: "The blog I always dreamed to write."
 logo: "/images/martindelille.jpg"
 
+# Liquid
+liquid:
+  error_mode: strict
+
 # Build settings
+kramdown:
+  show_warnings: true
+
 feed:
   path: /atom.xml
 
