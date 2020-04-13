@@ -27,6 +27,11 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  posts:
+    permalink: /:categories/:year/:month/:day/:title/
+
 # Site Author
 author:
   name: Martin Delille
