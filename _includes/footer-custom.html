@@ -8,6 +8,6 @@
         {%- endif -%}
         <a class="social-icon" href="{{ url }}"><i class="{{ link.icon | default: 'fas fa-link' }} fa-2x" title="{{ link.title }}"></i></a>
       {%- endfor -%}
-      <a class="social-icon" href="atom.xml"><i class="fas fa-rss-square fa-2x" title="Feed"></i></a>
+      <a class="social-icon" href="{{ site.feed.path }}"><i class="fas fa-rss-square fa-2x" title="Feed"></i></a>
     </div>
   {%- endif -%}

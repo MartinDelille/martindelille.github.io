@@ -3,8 +3,9 @@ title: "Martin Delille"
 description: "The blog I always dreamed to write."
 logo: "/images/martindelille.jpg"
 
-twitter:
-  username: martinodelilo
+# Build settings
+feed:
+  path: /atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
