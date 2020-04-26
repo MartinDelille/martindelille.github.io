@@ -5,13 +5,15 @@ tags:
   - teletravail
 ---
 
-Je commence cet article en pleine conférence sur [Zoom](https://zoom.us), une plate-forme de visioconférence très en vogue en cette période de confinement.
+  Je commence cet article en pleine conférence sur [Zoom](https://zoom.us), une plate-forme de visioconférence très en vogue en cette période de confinement.
 
-Je ne suis pas un grand fan de la *Start up nation* de notre cher président et lorsqu'il s'agit d'utiliser un outil, je préfère toujours envisager les alternatives libres. Or au début du confinement, le responsable du groupe informatique de mon association [l'Atelier des Médias](https://www.atelier-medias.org) a installé une instance du service [Jitsi](https://jitsi.org/) sur notre serveur [OVH](https://www.ovh.com/):
+Je ne suis pas un grand fan de la *Start up nation* de notre cher président et lorsqu'il s'agit d'utiliser un outil, je préfère toujours envisager les alternatives libres. Or au début du confinement, [Thomas Mortagne](https://www.atelier-medias.org/coworkers/thomas-mortagne/), le responsable du groupe informatique de mon association [l'Atelier des Médias](https://www.atelier-medias.org) a installé une instance du service [Jitsi](https://jitsi.org/) sur notre serveur [OVH](https://www.ovh.com/):
 
 ![Jitsi](/images/jitsi.png){: .align-center}
 
 Il fut très agréablement surpris par la simplicité d'installation du service donc la configuration se limitait à deux ou trois manipulations assez basique.
+
+## La cuisine virtuelle
 
 La situation du confinement était problématique pour notre association qui consiste en un lieu de travail en autogestion dont l'objectif est justement de rompre la solitude des télétravailleur.e.s salarié.e.s ou indépendant.e.s.
 
@@ -26,6 +28,31 @@ Nous avons donc instauré un salon dédié recréant notre cuisine physique avec
 
 Cet espace s'est révélé particulièrement précieux pour faire part notamment de nos inquiétudes ou espoirs sur l'avenir et ainsi rompre la solitude qui est le lot d'une bonne partie d'entre nous. Pour ceux confiné en famille, ça permettait ainsi de se changer les idées en voyant de nouvelles têtes.
 
-Dans un deuxième temps, le groupe vie associative dont je fais partie a décidé d'organiser une soirée virtuelle.
+## Le Cabaret des Coworkers Confinés
+
+Dans un deuxième temps, [Claire Morel](https://www.atelier-medias.org/claire-morel-creatrice-editoriale-jaime-rendre-un-sujet-hermetique-facile-a-comprendre/) du groupe vie associative dont je fais partie a décidé d'organiser une soirée virtuelle.
 
 On s'est pas mal posé de question sur la faisabilité d'une telle soirée du fait du nombre potentiellement grand d'un tel évènement (en général, on est au moins une trentaine de personne lors des soirées physique pré confino).
+
+Après étude des différentes alternatives payantes ou gratuite, nous avons décidé en concertation avec le groupe informatique de rester sur *Jitsi*, mais en augmentant la capacité de notre serveur afin qu'il puisse supporter une charge dont nous n'avions pas vraiment d'idée.
+
+Au niveau du fonctionnement, l'idée d'un cabaret qui nous trottait déjà dans la tête avant le confinement nous a paru idéale. Ainsi jailli le concept du *Cabaret des Coworkers Confinés*:
+
+![Cabaret des Coworkers Confinés](/images/cabaret.jpg){: .align-center}
+
+Cela consista en:
+
+- Un animatrice aux mille tenues, clin d'oeil aux speakerines de la télévision sous René Cotty qui distribuait les tours de paroles
+- Une animation ou une vidéo concocté par les coworkers souhaitant dévoilé l'un de leur nombreux talents
+- Un salon de discussion pour commenter (y'avait mêmes des petits trolls, mais gentils, car c'est souvent là qu'ils se cachent)
+
+Et voici le résultat:
+
+![Mosaique](/images/cabaret-mosaique.jpg){: .align-center}
+
+Afin de bien m'assurez que tout se passe bien, je me suis fendu d'un petit tuto youtube explicatif:
+
+{% include youtube.html
+    id="e4IF-Q_PIzs"
+%}
+
