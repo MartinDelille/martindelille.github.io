@@ -46,13 +46,61 @@ Cela consista en:
 - Une animation ou une vidéo concocté par les coworkers souhaitant dévoilé l'un de leur nombreux talents
 - Un salon de discussion pour commenter (y'avait mêmes des petits trolls, mais gentils, car c'est souvent là qu'ils se cachent)
 
-Et voici le résultat:
-
-![Mosaique](/images/cabaret-mosaique.jpg){: .align-center}
-
 Afin de bien m'assurez que tout se passe bien, je me suis fendu d'un petit tuto youtube explicatif:
 
 {% include youtube.html
     id="e4IF-Q_PIzs"
 %}
 
+Et voici le résultat:
+
+![Mosaique](/images/cabaret-mosaique.jpg){: .align-center}
+
+![Guitare](/images/cabaret-guitare.jpg){: .align-center}
+
+![Danse du gel](/images/cabaret-danse-du-gel.jpg){: .align-center}
+
+## Le bilan
+
+### Les points positifs
+
+Voici la liste des points positifs que nous avons retirer de cette expérience:
+
+- Face au confinement, l'association a su rapidement mettre en place une solution pour pallier à l'isolement.
+- La simplicité déconcertante d'installation et d'utilisation.
+- La solution maison n'obligeait pas les membres à s'inscrire sur une plateforme type *F...book*, *G..gle* ou autres exploitants de données personnelles, qui auraient pu exclure une partie des membres.
+- La possibilité de personnalisé l'interface avec notre logo
+
+### Les points négatifs
+
+Et oui, il ne faut pas se voiler la face, il n'est pas sorti que du positif de cet expérience ce qui m'invite à nuancer la performance de cette outil:
+
+- La rigueur que demande l'utilisation de l'outil: en effet, que ce soit du côté du créateur de la salle, il faut s'astreindre à une certaine hygiène en matière d'échange de donnée:
+  - L'utilisateur doit faire attention à maîtriser l'ouverture de son micro pour limiter le bruit ambiant dans la visioconférence (le modérateur peut lui couper le micro si besoin, mais ce n'est pas facile de tout gérer parfois).
+  - L'envoi de sa vidéo coûte en bande passante donc est à utiliser avec parcimonie, en particulier lorsqu'on est pas connecté en fibre.
+  - La qualité vidéo est réglable et la qualité minimum est suffisante pour une bonne interaction (le réglage par défaut permet une qualité pour une diffusion sur une chaîne hertzienne, ce qui est bien au dessus du besoin courant):
+![Réglage vidéo](/images/jitsi-video-settings.jpg){: .align-center}
+![Qualité vidéo](/images/jitsi-video-quality.jpg){: .align-center}
+  - Le modérateur peut configurer la salle pour que les participants arrivent avec le micro et la caméra coupée par défaut
+- Les difficultés techniques qu'une personne isolée peut rencontrer peuvent être très frustrante et mener à l'abandon de la visioconférence.
+- Les droits de modération semblent assez basique (mais je n'ai pas étudier plus que ça la question) et si pour une raison ou pour une autre, le créateur de la salle doit se déconnecter, il perd la possibilité de modération qui échoit à la deuxième personne qui s'est connecté (c'est ce qu'il s'est passé pendant la soirée, et du coup je ne pouvais plus couper le son des distraits).
+- Nous avons constaté que plus il y avait de participants, plus ça augmentait le flux réseau à absorber et à décoder par chacun. C'est dû à la méthode [SFU](https://webrtcglossary.com/sfu/) qu'implémente *Jitsi* pour répartir les flux de donnée:
+![Qualité vidéo](/images/webrtc-sfu.jpg){: .align-center}
+
+## Conclusion
+
+Est-ce qu'on peut dire après cet article que *Jitsi* est mieux ou moins bien que *Zoom* ? C'est bien évidemment impossible de répondre simplement à cette question simplement car cela dépend déjà de si vous êtes un particulier ou une organisation et de votre niveau de compétence technique.
+
+*Zoom* offre très clairement de bonne performance technique moyennant l'installation d'un logiciel sur son ordinateur car il y a une équipe derrière qui s'assure que tout fonctionne bien. Les comptes *Premiums* ont bien entendu un accès privilégié et plus de liberté sur l'utilisation de l'outil.
+
+*Jitsi* est plus simple d'utilisation pour l'utilisateur à condition qu'il soit bien administré, ce qui n'est pas une tâche facile car cela demande une vrai compétence technique.
+
+On pourrait presque dire qu'il s'agit d'un choix politique avec d'un côté la sécurité de la solution propriétaire toute faite d'un côté et l'aventure de la gestion locale de l'autre.
+
+Je terminerai avec cette citation de [Mikhaïl Bakounine](https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine):
+
+> La liberté des autres, étend la mienne à l'infini
+
+Bon confinement!
+
+Martin
