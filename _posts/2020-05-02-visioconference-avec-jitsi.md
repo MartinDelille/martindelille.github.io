@@ -96,7 +96,7 @@ Est-ce qu'on peut dire après cet article que *Jitsi* est mieux ou moins bien qu
 
 *Jitsi* est plus simple d'utilisation pour l'utilisateur à condition qu'il soit bien administré, ce qui n'est pas une tâche facile car cela demande une bonne connaissance de l'outil et du temps.
 
-On pourrait presque dire qu'il s'agit d'un choix politique avec la sécurité de la solution propriétaire toute faite d'un côté et l'aventure de la gestion locale de l'autre.
+On pourrait presque dire qu'il s'agit d'un choix avec la sécurité de la solution propriétaire toute faite d'un côté et l'aventure de la gestion locale de l'autre.
 
 Je terminerai avec cette citation de [Mikhaïl Bakounine](https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine):
 
