@@ -11,20 +11,20 @@ Je ne suis pas un grand fan de la *start up nation* de notre cher président et 
 
 ![Jitsi](/images/jitsi.png){: .align-center}
 
-Il fut très agréablement surpris par la simplicité d'installation du service donc la configuration se limitait à deux ou trois manipulations assez basique.
+Il fut très agréablement surpris par la simplicité d'installation du service donc la configuration se limitait à deux ou trois manipulations assez basiques.
 
 ## La cuisine virtuelle
 
 La situation du confinement était problématique pour notre association qui consiste en un lieu de travail en autogestion dont l'objectif est justement de rompre la solitude des télétravailleur.e.s salarié.e.s ou indépendant.e.s.
 
-Et si une visioconférence ne vaut pas un vrai rapport humain, c'est toujours mieux qu'une conversation *F...book* ou autre dans laquelle les risques de mauvaise interprétation des écrits.
+Et si une visioconférence ne vaut pas un vrai rapport humain, c'est toujours mieux qu'une conversation type *F...book* où il existe un risque de mauvaise interprétation des écrits.
 
-Le caractère spontangé qui est de mise sur les réseaux sociaux est toujours source de problématique et de conflit.
+Le caractère spontané qui est de mise sur les réseaux sociaux est toujours source de problématique et de conflit.
 On a tous nos petites histoires à raconter sur le sujet:
 
 {% include gif.html id="9o9dh1JRGThC1qxGTJ" %}
 
-Nous avons donc créé un salon dédié simulant notre regretté cuisine (moche) en instaurant des horaires de retrouvaille quotidienne. Cela nous permettait de nous retrouver occasionnellement au hasard des connexions.
+Nous avons donc créé un salon dédié simulant notre regrettée cuisine (moche) en instaurant des horaires de retrouvaille quotidienne. Cela nous permettait de nous retrouver occasionnellement au hasard des connexions.
 
 Cet espace s'est révélé particulièrement précieux pour faire part notamment de nos inquiétudes ou espoirs sur l'avenir et ainsi rompre la solitude qui est le lot d'une bonne partie d'entre nous. Pour ceux confinés en famille, ça permettait ainsi de se changer les idées en voyant de nouvelles têtes.
 
@@ -32,7 +32,7 @@ Cet espace s'est révélé particulièrement précieux pour faire part notamment
 
 Dans un deuxième temps, [Claire Morel](https://www.atelier-medias.org/claire-morel-creatrice-editoriale-jaime-rendre-un-sujet-hermetique-facile-a-comprendre/) du groupe *Vie Associative* dont je fais partie a décidé d'organiser une teuf virtuelle.
 
-On s'est pas mal posé de question sur la faisabilité d'une telle soirée du fait du nombre potentiellement grand d'un tel évènement (en général, on est au moins une trentaine de personne lors des soirées physique pré confino).
+On s'est pas mal posé de questions sur la faisabilité d'une telle soirée du fait du nombre potentiellement grand d'un tel évènement (en général, on est au moins une trentaine de personnes lors des soirées physique pré confino).
 
 Après étude des différentes alternatives payantes ou gratuites, nous avons décidé en concertation avec le groupe informatique de rester sur *Jitsi*, mais en augmentant la capacité de notre serveur afin qu'il puisse supporter une charge dont nous n'avions pas vraiment d'idée.
 
@@ -42,7 +42,7 @@ Au niveau du fonctionnement, l'idée d'un cabaret qui nous trottait déjà dans 
 
 Cela consista en:
 
-- Un animatrice aux mille tenues, clin d'oeil aux speakerines de la télévision sous [René Cotty](https://fr.wikipedia.org/wiki/Ren%C3%A9_Coty) qui distribuait les tours de paroles.
+- Une animatrice aux mille tenues, clin d'oeil aux speakerines de la télévision sous [René Cotty](https://fr.wikipedia.org/wiki/Ren%C3%A9_Coty) qui distribuait les tours de paroles.
 - Une animation ou une vidéo concocté par les coworkers souhaitant dévoiler l'un de leur nombreux talents.
 - Un salon de discussion pour commenter (y'avait mêmes des petits trolls \[car c'est souvent là qu'ils se cachent\], mais gentils).
 
@@ -64,9 +64,9 @@ Et voici le résultat:
 
 ### Les points positifs
 
-Voici la liste des points positifs que nous avons retirer de cette expérience:
+Voici la liste des points positifs que nous avons retiré de cette expérience:
 
-- Face au confinement, l'association a su rapidement mettre en place une solution pour pallier à l'isolement.
+- Face au confinement, l'association a su rapidement mettre en place une solution pour pallier l'isolement.
 - La simplicité déconcertante d'installation et d'utilisation.
 - La solution maison n'obligeait pas les membres à s'inscrire sur une plateforme type *F...book*, *G..gle* ou autres exploitants de données personnelles, qui auraient pu exclure une partie des membres.
 - La possibilité de personnaliser l'interface avec notre logo.
@@ -75,16 +75,16 @@ Voici la liste des points positifs que nous avons retirer de cette expérience:
 
 Et oui, il ne faut pas se voiler la face, il n'est pas sorti que du positif de cet expérience ce qui m'invite à nuancer la performance de cette outil:
 
-- La rigueur que demande l'utilisation de l'outil: en effet, que ce soit du côté du créateur de la salle, il faut s'astreindre à une certaine hygiène en matière d'échange de donnée:
+- La rigueur que demande l'utilisation de l'outil: en effet, pour le créateur de la salle, il faut s'astreindre à une certaine hygiène en matière d'échange de donnée:
   - L'utilisateur doit faire attention à maîtriser l'ouverture de son micro pour limiter le bruit ambiant dans la visioconférence (le modérateur peut lui couper le micro si besoin, mais ce n'est pas facile de tout gérer parfois).
-  - L'envoi de sa vidéo coûte en bande passante donc est à utiliser avec parcimonie, en particulier lorsqu'on est pas connecté en fibre.
+  - L'envoi de sa vidéo coûte en bande passante donc est à utiliser avec parcimonie, en particulier lorsqu'on n'est pas connecté en fibre.
   - La qualité vidéo est réglable et la qualité minimum est suffisante pour une bonne interaction (le réglage par défaut permet une qualité pour une diffusion sur une chaîne hertzienne, ce qui est bien au dessus du besoin courant):
 ![Réglage vidéo](/images/jitsi-video-settings.jpg){: .align-center}
 ![Qualité vidéo](/images/jitsi-video-quality.jpg){: .align-center}
   - Le modérateur peut configurer la salle pour que les participants arrivent avec le micro et la caméra coupée par défaut:
 ![Réglage plus](/images/jitsi-settings-plus.jpg){: .align-center}
-- Les difficultés techniques qu'une personne isolée peut rencontrer peuvent être très frustrante et mener à l'abandon de la visioconférence.
-- Les droits de modération semblent assez basique (mais je n'ai pas étudié plus que ça la question) et si pour une raison ou pour une autre, le créateur de la salle doit se déconnecter, il perd la possibilité de modération qui échoit à la deuxième personne qui s'est connecté (c'est ce qu'il s'est passé pendant la soirée, et du coup je ne pouvais plus couper le son des distraits).
+- Les difficultés techniques qu'une personne isolée peut rencontrer peuvent être très frustrantes et mener à l'abandon de la visioconférence.
+- Les droits de modération semblent assez basiques (mais je n'ai pas étudié plus que ça la question) et si pour une raison ou pour une autre, le créateur de la salle doit se déconnecter, il perd la possibilité de modération qui échoit à la deuxième personne qui s'est connectée (c'est ce qu'il s'est passé pendant la soirée, et du coup je ne pouvais plus couper le son des distraits).
 - Nous avons constaté que plus il y avait de participants, plus ça augmentait le flux réseau à absorber et à décoder par chacun. C'est dû à la méthode [SFU](https://webrtcglossary.com/sfu/) qu'implémente *Jitsi* pour répartir les flux de donnée:
 ![Qualité vidéo](/images/webrtc-sfu.jpg){: .align-center}
 
