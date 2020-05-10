@@ -105,3 +105,10 @@ Je terminerai avec cette citation de [Mikhaïl Bakounine](https://fr.wikipedia.o
 Bon confinement!
 
 Martin
+
+PS:
+
+Pour en savoir plus sur les problèmes avec *Zoom*:
+
+- <https://daringfireball.net/2020/03/regarding_zoom>
+- <https://info.haas-avocats.com/droit-digital/zoom-a-t-il-deliberement-cache-ses-failles-de-securite>
