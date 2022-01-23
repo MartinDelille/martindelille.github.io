@@ -1,5 +1,6 @@
 ---
 title: "Des Plumes et des Touches"
+layout: post
 tags:
   - dev
   - ecriture
