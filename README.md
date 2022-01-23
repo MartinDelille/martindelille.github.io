@@ -6,7 +6,7 @@ Here are the various way you can contribute to it:
 
 Content on the internet is usually free, but you must _think free as in free speech, not free beer._. There is a _Sponsor_ button on this page if your willing to pay me for the work I made in the past or I'll do in the future. I stopped drinking alcohol on a regular basis but I'm a coffee lover and know [some very good alcohol free beer](https://www.brewdog.com/uk/shop/beer?dietary_and_lifestyle=1717). I also dream to build this kind of ship one day:
 
-![Le renard de Robert Surcouf](images/renard.jpg)
+![Le renard de Robert Surcouf](assets/images/renard.jpg)
 
 ## Make a pull request
 

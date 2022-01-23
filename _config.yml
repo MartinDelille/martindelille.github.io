@@ -1,9 +1,10 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: "Martin Delille"
-description: "The blog I always dreamed to write."
-logo: "/images/martindelille.jpg"
+description: "La technique au service de l'artistique."
+logo: "/assets/images/martindelille.jpg"
 read_time: true
 words_per_minute: 200
+lang: fr
 
 # Liquid
 liquid:
@@ -43,8 +44,8 @@ collections:
 # Site Author
 author:
   name: Martin Delille
-  picture: /images/martindelille.jpg
-  email: martin@delille.io
+  picture: /assets/images/martindelille.jpg
+  email: martin.delille@gmail.com
   twitter: martinodelilo
   links:
     - title: Twitter

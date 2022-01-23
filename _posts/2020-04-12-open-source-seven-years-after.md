@@ -7,7 +7,7 @@ tags:
 
 This morning *F...book* reminded me that seven years ago I pushed [my first open source project](https://github.com/atelierdesmedias/Autofacto) on *Github*. It was not a big project and it isn't even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won't last in the history of software but it was a relatevely cool project anyway.
 
-![Open source logo](/images/opensource.png){: .align-center}
+![Open source logo](/assets/images/opensource.png){: .align-center}
 
 ## Autofacto
 
@@ -50,7 +50,7 @@ Basically it has been a source of learning of many learning:
 
 I also earn a lot of control on systems in general.
 
-![Don Quichote](/images/donquichote.jpg)
+![Don Quichote](/assets/images/donquichote.jpg)
 
 Seven years after, I still have trouble not starting a war against private software but at least I made some concession: we live in a world were private company owns the means of production and I'm not going to change that. I just keep going publishing my work because I still don't see no valid reason not doing it.
 
