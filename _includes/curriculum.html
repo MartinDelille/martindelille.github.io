@@ -1,20 +1,20 @@
-{% assign cv = site.data.cv %}
+{% assign curriculum = site.data.curriculum %}
 {% assign lang = page.lang | default: site.lang %}
 
-<h2 class="entry-title">{{ cv.summary[lang] }}</h2>
-<p>{{ cv.summary.content[lang] }}</p>
+<h2 class="entry-title">{{ curriculum.summary[lang] }}</h2>
+<p>{{ curriculum.summary.content[lang] }}</p>
 
 <hr/>
 
-<h2 class="entry-title">{{ cv.objective[lang] }}</h2>
-<p>{{ cv.objective.content[lang] }}</p>
+<h2 class="entry-title">{{ curriculum.objective[lang] }}</h2>
+<p>{{ curriculum.objective.content[lang] }}</p>
 
 <hr/>
 
-<h2 class="entry-title">{{ cv.expertise[lang] }}</h2>
+<h2 class="entry-title">{{ curriculum.expertise[lang] }}</h2>
 
 <ul>
-    {% for item in cv.expertise.items %}
+    {% for item in curriculum.expertise.items %}
         <li>
             {{ item.name[lang] }}:
             {% for skill in item.skills %}
@@ -27,9 +27,9 @@
 
 <hr/>
 
-<h2 class="entry-title">{{ cv.professional[lang] }}</h2>
+<h2 class="entry-title">{{ curriculum.professional[lang] }}</h2>
 
-{% for item in cv.professional.content %}
+{% for item in curriculum.professional.content %}
     <h3 class="subentry-title">
         {{ item.name }}
     </h3>
@@ -73,8 +73,8 @@
 
 <hr/>
 
-<h2 class="entry-title">{{ cv.education[lang] }}</h2>
-{% for college in cv.education.colleges %}
+<h2 class="entry-title">{{ curriculum.education[lang] }}</h2>
+{% for college in curriculum.education.colleges %}
     <h3 class="subentry-title">
         {{ college.name }}
     </h3>
@@ -98,7 +98,7 @@
 
 <h2 class="entry-title">Certifications and Awards</h2>
 <ul>
-    {% for item in cv.certsAndAwards %}
+    {% for item in curriculum.certsAndAwards %}
         <li>{{ item.name }},
             {{ item.year }}</li>
     {% endfor %}
