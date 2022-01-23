@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-so-simple
 title: "Martin Delille"
 description: "La technique au service de l'artistique."
 logo: "/assets/images/martindelille.jpg"
@@ -17,10 +17,6 @@ kramdown:
 feed:
   path: /atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
-
 # Taxonomy pages
 tag_archive_path: "/tags/#"
 
@@ -34,7 +30,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-tidy
 
 # Collections
 collections:
