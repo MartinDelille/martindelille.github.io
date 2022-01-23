@@ -4,6 +4,11 @@ var store = [{
 "tags": ["dev","ecriture"],
 "url": "/2009/01/18/des-plumes-et-des-touches/"
 },{
+"title": "Mon premier clip",
+"excerpt":"Voici un projet dont je suis pas peu fier: le clip de mon groupe de punk “Les Cocksuckers” dont j’ai fait la réalisation et le montage. ","categories": [],
+"tags": ["video","musique"],
+"url": "/2019/12/19/mon-premier-clip/"
+},{
 "title": "Open Source: Seven years after",
 "excerpt":"This morning F…book reminded me that seven years ago I pushed my first open source project on Github. It was not a big project and it isn’t even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won’t last in the history of software...","categories": [],
 "tags": ["opensource","github"],
