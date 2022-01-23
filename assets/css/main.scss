@@ -5,17 +5,4 @@
 
 @import "so-simple";
 
-.subentry-title {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-
-.skill {
-    display: inline-block;
-    color: white;
-    background-color: #888;
-    padding: 1px 5px;
-    margin: 1px;
-    border-radius: 5px;
-    font-size: 0.8rem;
-}
+@import 'cv';
