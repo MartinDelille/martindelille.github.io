@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+      <loc>/2009/01/18/des-plumes-et-des-touches/</loc>
+      <lastmod>2009-01-18T00:00:00+00:00</lastmod>
+    </url>
+    <url>
       <loc>/2020/04/12/open-source-seven-years-after/</loc>
       <lastmod>2020-04-12T00:00:00+00:00</lastmod>
     </url>
     <url>
       <loc>/2020/05/02/visioconference-avec-jitsi/</loc>
       <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2021/03/31/recordr/</loc>
+      <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     </url>
     <url>
       <loc>/curriculum/en/</loc>
