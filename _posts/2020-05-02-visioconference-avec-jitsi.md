@@ -1,5 +1,6 @@
 ---
 title: "Visioconférence avec Jitsi: retour d'expérience"
+layout: post
 tags:
   - jitsi
   - teletravail

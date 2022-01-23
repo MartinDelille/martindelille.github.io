@@ -1,5 +1,6 @@
 ---
 title: "Open Source: Seven years after"
+layout: post
 tags:
   - opensource
   - github
