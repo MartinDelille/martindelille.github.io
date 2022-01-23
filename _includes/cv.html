@@ -1,0 +1,105 @@
+{% assign cv = site.data.cv %}
+{% assign lang = page.lang | default: site.lang %}
+
+<h2 class="entry-title">{{ cv.summary[lang] }}</h2>
+<p>{{ cv.summary.content[lang] }}</p>
+
+<hr/>
+
+<h2 class="entry-title">{{ cv.objective[lang] }}</h2>
+<p>{{ cv.objective.content[lang] }}</p>
+
+<hr/>
+
+<h2 class="entry-title">{{ cv.expertise[lang] }}</h2>
+
+<ul>
+    {% for item in cv.expertise.items %}
+        <li>
+            {{ item.name[lang] }}:
+            {% for skill in item.skills %}
+                <span class="skill">{% include translate.html content=skill %}</span>
+            {% endfor %}
+        </li>
+
+    {% endfor %}
+</ul>
+
+<hr/>
+
+<h2 class="entry-title">{{ cv.professional[lang] }}</h2>
+
+{% for item in cv.professional.content %}
+    <h3 class="subentry-title">
+        {{ item.name }}
+    </h3>
+    <ul>
+        <li>{% include translate.html content="Website" %}:
+            <a href="{{ item.link }}">{{ item.link }}</a>
+        </li>
+        <li>{{ item.start | date: "%b %Y" }}
+            to
+            {{ item.end | date: "%b %Y" }}</li>
+        <li>{{ item.location }}</li>
+        <li>{% include translate.html content="Job title" %}:
+            {{ item.title }}</li>
+        <li>{% include translate.html content="Mission" %}:
+            {{ item.summary[lang] }}</li>
+        <li>{% include translate.html content="Projects" %}:
+            <ul>
+                {% for project in item.projects %}
+                    <li>
+                        {{ project.name }}:
+                        {{ project.description[lang] }}
+                        <ul>
+                            {% if project.link %}
+                                <li>{% include translate.html content="Website" %}:
+                                    <a href="{{ project.link }}">{{ project.link }}</a>
+                                </li>
+                            {% endif %}
+                            <li>{% include translate.html content="Skills" %}:
+                                {% for skill in project.skills %}
+                                    <span class="skill">{% include translate.html content=skill %}</span>
+                                {% endfor %}
+                            </li>
+                        </ul>
+                    </li>
+                {% endfor %}
+            </ul>
+        </li>
+    </ul>
+    <br/>
+{% endfor %}
+
+<hr/>
+
+<h2 class="entry-title">{{ cv.education[lang] }}</h2>
+{% for college in cv.education.colleges %}
+    <h3 class="subentry-title">
+        {{ college.name }}
+    </h3>
+    <ul>
+        <li>{% include translate.html content="Website" %}:
+            <a href="{{ college.link }}">{{ college.link }}</a>
+        </li>
+        <li>Year:
+            {{ college.year }}</li>
+        <li>{% include translate.html content="Degree" %}:
+            {{ college.degree }}</li>
+        <li>{% include translate.html content="Skills" %}:
+            {% for skill in college.skills %}
+                <span class="skill">{% include translate.html content=skill %}</span>
+            {% endfor %}
+        </li>
+    </ul>
+{% endfor %}
+
+<hr/>
+
+<h2 class="entry-title">Certifications and Awards</h2>
+<ul>
+    {% for item in cv.certsAndAwards %}
+        <li>{{ item.name }},
+            {{ item.year }}</li>
+    {% endfor %}
+</ul>

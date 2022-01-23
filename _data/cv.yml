@@ -1,0 +1,271 @@
+summary:
+  en: Summary
+  fr: Résumé
+  content:
+    en: I am an experienced professional, involved in several innovating projects in the audiovisual industry.
+    fr: Je suis un ingénieur expérimenté impliqué dans plusieurs projets innovants dans l'industrie audiovisuelle.
+
+objective:
+  en: Objective
+  fr: Objectif
+  content:
+    en: Seeking a career that fits my professional skills, personality, and creativity.
+    fr: A la recherche d'une carrière qui correspondent à mes compétences personnelles, ma personnalité et ma créativité.
+
+translations:
+  Need analysis:
+    fr: Analyse du besoin
+  Project specification:
+    fr: Cahier des charges
+  Change management:
+    fr: Conduite du changement
+  Teaching:
+    fr: Formation
+  French (native):
+    fr: Français (langue maternelle)
+  English (fluent):
+    fr: Anglais (courant)
+  Spanish (fluent):
+    fr: Espagnol (courant)
+  German (almost fluent):
+    fr: Allemand (presque courant)
+  Arab (basis):
+    fr: Arabe (débutant)
+  Brazilian (basis):
+    fr: Brésilien (débutant)
+  Italian (basis):
+    fr: Italien (débutant)
+  Greek (basis):
+    fr: Grec (débutant)
+  Japonese (basis):
+    fr: Grec (débutant)
+  Assembly:
+    fr: Assembleur
+  Job title:
+    fr: Poste
+  Website:
+    fr: Site web
+  Degree:
+    fr: Diplôme
+  Skills:
+    fr: Compétences
+
+expertise:
+  en: Skills Focus and Technical Expertise
+  fr: Compétences et Expertise Technique
+  items:
+  - name:
+      en: Project lead
+      fr: Conduite de projet
+    skills:
+    - Need analysis
+    - Project specification
+    - Change management
+    - Teaching
+    - Support
+    - Maintenance
+  - name:
+      en: Spoken languages
+      fr: Langues
+    skills:
+    - French (native)
+    - English (fluent)
+    - Spanish (fluent)
+    - German (almost fluent)
+    - Arab (basis)
+    - Brazilian (basis)
+    - Italian (basis)
+    - Greek (basis)
+    - Japonese (basis)
+  - name:
+      en: Programming languages
+      fr: Langage de programmation
+    skills:
+    - C++
+    - C
+    - C#
+    - Assembly
+    - HTML
+    - CSS
+    - Python
+    - Go
+    - Typescript
+    - Javascript
+    - Ruby
+  - name:
+      en: Frameworks
+      fr: Frameworks
+    skills:
+    - Qt
+    - DotNet
+    - VueJS
+    - Angular
+  - name:
+      en: Libraries
+      fr: Librairies
+    skills:
+    - FFmpeg
+    - OpenGL
+    - RtMidi
+    - LibLTC
+    - AWS C++ SDK
+  - name:
+      en: Develoment tools
+      fr: Outils de développement
+    skills:
+    - Git
+    - Gitlab
+    - Github
+    - Sentry
+    - BanditCPP
+    - Travis-CI
+    - Appveyor
+    - Coveralls
+    - Doxygen
+    - Subversion
+  - name:
+      en: Operating system
+      fr: Système d'exploitation
+    skills:
+    - MacOSX
+    - Windows
+    - Linux
+    - iOS
+    - Android
+
+professional:
+  en: Professional Experience
+  fr: Expérience Professionelle
+  content:
+  - name: Lylo Media Group
+    link: https://www.lylo.tv
+    location: Paris, France
+    start: 02/2016
+    end: Present
+    title: Scout / Lead developer / Teacher / UX
+    summary:
+      en: Developping the new tools and workflow of the futur of media localization.
+      fr: Développement des nouveaux outils et process métiers du futur de la localisation de média.
+    projects:
+    - name: SilcroW
+      link: https://apps.apple.com/fr/app/silcrow/id1602134456
+      description:
+        en: A multiplateform rythmo band authoring tool available on the Apple and Microsoft store.
+        fr: Un outil d'écriture de dialogue de doublage disponible sur les store Apple et Microsoft.
+      skills:
+      - QML
+      - OpenAPI specification
+      - OpenAPI generator
+      - Conan package manager
+    - name: RecordR
+      link: https://www.recordr.download
+      description:
+        en: A fully autonomous rythmo band recording system that help a talent to work from home in a secure media workflow.
+        fr: Un système d'enregistrement autonome complet basé sur la technique de la bande rythmographique permettant à un comédien de travailler à distance, le transfert des médias avec notre plateforme web se faisant de façon totalement sécurisées.
+      skills:
+      - Qt
+      - C++
+      - BanditCPP
+      - FFmpeg
+      - OpenGL
+      - Gitlab
+      - Gitlab-CI
+  - name: Phonations
+    link: https://www.phonations.com
+    location: Lyon, France
+    start: 03/2012
+    end: 01/2016
+    title: CEO
+    summary:
+      en: Software development and maintenance to the audiovisual post-production industry.
+      fr: Développement et maintenance logiciel pour l'industrie de la post-production audiovisuelle.
+    projects:
+    - name: Joker
+      link: https://github.com/martindelille/Joker
+      description:
+        en: A rythmo band tool that help a talent to sync its voice to a movie picture. It is multiplateform and able to synchronize to most of the main professional digital audio workstation like Pro Tools thanks to midi synchronization.
+        fr: Un logiciel affichant au comédien de doublage le texte et la vidéo pour un enregistrement synchrone. Il est multiplateforme et capable de se synchroniser à la plupart des stations de travail numérique professionelle comme Pro Tools grâce au protocole Midi.
+      skills:
+      - Qt
+      - C++
+      - BanditCPP
+      - Travis-CI
+      - Appveyor
+      - Coveralls
+
+  - name: Dubbing Brothers
+    link: https://www.dubbing-brothers.com
+    location: Paris, France
+    start: 11/2008
+    end: 11/2011
+    title: Developer
+    summary:
+      en: Developping the ERytmo project for the biggest european dubbing company.
+      fr: Développement du projet ERytmo pour le plus grand studio européen de doublage.
+    projects:
+    - name: ERytmo
+      description: 
+        en: A full dubbing solution allowing to write and record the dubbing talents voice using LTC protocol to allow Pyramix synchronisation and video incrustation from a VCube.
+        fr: Une solution complète de doublage permettant l'écriture et l'enregistrement des voix des comédiens de doublage en utilisant le protocol LTC pour se synchroniser à Pyramix et en affichant la vidéo incrustée du VCube.
+      skills:
+      - DotNet
+      - C#
+      - Change management
+      - Teaching
+      - Pyramix
+      - VCube
+
+  - name: Chinkel
+    link: https://www.chinkel.com
+    location: Paris, France
+    start: 03/2006
+    end: 10/2008
+    title: Developer
+    summary:
+      en: Developping the Cappella project for the most innovative french dubbing company at the time being.
+      fr: Développement du projet Cappella pour le studio de doublage le plus innovant du moment.
+    projects:
+    - name: Cappella
+      description:
+        en: A full dubbing solution allowing to write and record the dubbing talents voice using Sony 9 pin protocol to allow Pro Tools synchronisation.
+        fr: Une solution complète de doublage permettant l'écriture et l'enregistrement des voix des comédiens de doublage en utilisant le protocol Sony 9 pin pour se synchroniser à un Pro Tools.
+      link: http://www.cappella.tv
+      skills:
+      - C++
+      - OpenGL
+      - DirectX
+      - Microsoft Foundation Class
+      - Serial device communication
+      - Pro Tools
+
+education:
+  en: Education
+  fr: Études
+  colleges:
+  - name: Chimie Physique Électronique de Lyon
+    link: https://www.cpe.fr
+    year: 2000-2005
+    degree: Master degree in electronique, computer science and communication.
+    skills:
+    - C++
+    - Quantum physics
+    - Operating system
+    - Multithreading
+    - Electronics fundamentals
+    - FPGA
+    - Microcontroller
+
+  - name: Universidad Politécnica de Madrid
+    link: https://www.upm.es
+    year: 2003-2004
+    degree: Computer science, electronics and automatisation
+    skills:
+      - Project management
+      - Signal processing
+      - Electronic design
+
+certsAndAwards:
+  - name: Master degree in electronique, computer science and communication
+    year: 2005
+  - name: TOEFL
+    year: 2002
