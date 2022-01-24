@@ -39,10 +39,10 @@ var store = [{
 "tags": ["dubbing","video","joker"],
 "url": "/2018/12/09/detournage/"
 },{
-"title": "Mon premier clip",
+"title": "Le clip de Les Cocksuckers",
 "excerpt":"Voici un projet dont je suis pas peu fier: le clip de mon groupe de punk “Les Cocksuckers” dont j’ai fait la réalisation et le montage. Ce projet fait usage de la technique du fond vert et du stop-motion. Production/direction artistique/story board : Les Cocksuckers Réalisation/montage : Martin Delille Assistante...","categories": [],
 "tags": ["video","musique","stop-motion","trucage"],
-"url": "/2019/12/19/mon-premier-clip/"
+"url": "/2019/12/19/le-clip-de-les-cocksuckers/"
 },{
 "title": "Open Source: Seven years after",
 "excerpt":"This morning F…book reminded me that seven years ago I pushed my first open source project on Github. It was not a big project and it isn’t even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won’t last in the history of software...","categories": [],
