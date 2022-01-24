@@ -53,3 +53,9 @@ author:
     - title: GitHub
       url: https://github.com/martindelille
       icon: fab fa-github-square
+    - title: Vimeo
+      url: https://vimeo.com/martindelille
+      icon: fab fa-vimeo
+    - title: YouTube
+      url: https://www.youtube.com/channel/UCDJTOuUCiebTP6wmcrPSKYQ
+      icon: fab fa-youtube
