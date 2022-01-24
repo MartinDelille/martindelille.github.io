@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+      <loc>/2002/06/01/patamodele/</loc>
+      <lastmod>2002-06-01T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2006/01/01/la-croix-du-cervin/</loc>
+      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2008/09/01/memoires-vives/</loc>
+      <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    </url>
+    <url>
       <loc>/2009/01/18/des-plumes-et-des-touches/</loc>
       <lastmod>2009-01-18T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2011/10/01/the-gopro-experiment/</loc>
+      <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2018/04/16/le-ventilateur-de-la-poussiere/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2018/07/18/joker-development/</loc>
+      <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2018/12/09/detournage/</loc>
+      <lastmod>2018-12-09T00:00:00+00:00</lastmod>
     </url>
     <url>
       <loc>/2019/12/19/mon-premier-clip/</loc>
@@ -13,8 +41,16 @@
       <lastmod>2020-04-12T00:00:00+00:00</lastmod>
     </url>
     <url>
+      <loc>/2020/05/02/tuto-pour-partager-son-bureau-avec-un-sac-a-patate/</loc>
+      <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+    </url>
+    <url>
       <loc>/2020/05/02/visioconference-avec-jitsi/</loc>
       <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>/2021/03/22/tuto-tri-playlist-youtube/</loc>
+      <lastmod>2021-03-22T00:00:00+00:00</lastmod>
     </url>
     <url>
       <loc>/2021/03/31/recordr/</loc>
