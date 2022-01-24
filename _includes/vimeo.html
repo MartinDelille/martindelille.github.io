@@ -1,0 +1,7 @@
+<!-- _includes/vimeo.html -->
+<div class="image-wrapper" >
+  <iframe src="//player.vimeo.com/video/{{ include.id }}" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  {% if include.caption %}
+    <p class="caption">{{ include.caption }}</p>
+  {% endif %}
+</div>
