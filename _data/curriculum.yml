@@ -132,6 +132,18 @@ expertise:
     - Linux
     - iOS
     - Android
+  - name:
+      en: Multimedia
+      fr: Multimedia
+    skills:
+    - Pro Tools
+    - GarageBand
+    - Ableton
+    - Final Cut
+    - Adobe Premiere
+    - SonicPI
+    - FastTracker2
+    - Blender
 
 professional:
   en: Professional Experience
