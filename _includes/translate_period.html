@@ -1,0 +1,23 @@
+{% assign fromDate = include.from | translate_date: lang %}
+{% if include.to %}
+    {% assign toDate = include.to | translate_date: lang %}
+    {% if lang == "fr" %}
+        De
+    {% else %}
+        From
+    {% endif %}
+    {{ fromDate }}
+    {% if lang == "fr" %}
+        à
+    {% else %}
+        to
+    {% endif %}
+    {{ toDate }}
+{% else %}
+    {% if lang == "fr" %}
+        Depuis
+    {% else %}
+        From
+    {% endif %}
+    {{ fromDate }}
+{% endif %}

@@ -38,7 +38,7 @@ translations:
   Greek (basis):
     fr: Grec (débutant)
   Japonese (basis):
-    fr: Grec (débutant)
+    fr: Japonais (débutant)
   Assembly:
     fr: Assembleur
   Job title:
@@ -141,7 +141,6 @@ professional:
     link: https://www.lylo.tv
     location: Paris, France
     start: 02/2016
-    end: Present
     title: Scout / Lead developer / Teacher / UX
     summary:
       en: Developping the new tools and workflow of the futur of media localization.
@@ -244,7 +243,8 @@ education:
   colleges:
   - name: Chimie Physique Électronique de Lyon
     link: https://www.cpe.fr
-    year: 2000-2005
+    start: 09/2000
+    end: 06/2005
     degree: Master degree in electronique, computer science and communication.
     skills:
     - C++
@@ -257,7 +257,8 @@ education:
 
   - name: Universidad Politécnica de Madrid
     link: https://www.upm.es
-    year: 2003-2004
+    start: 09/2003
+    end: 06/2004
     degree: Computer science, electronics and automatisation
     skills:
       - Project management
