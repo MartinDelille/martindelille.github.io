@@ -37,9 +37,7 @@
         <li>{% include translate.html content="Website" %}:
             <a href="{{ item.link }}">{{ item.link }}</a>
         </li>
-        <li>{{ item.start | date: "%b %Y" }}
-            to
-            {{ item.end | date: "%b %Y" }}</li>
+        <li>{% include translate_period.html from=item.start to=item.end %}</li>
         <li>{{ item.location }}</li>
         <li>{% include translate.html content="Job title" %}:
             {{ item.title }}</li>
@@ -82,8 +80,7 @@
         <li>{% include translate.html content="Website" %}:
             <a href="{{ college.link }}">{{ college.link }}</a>
         </li>
-        <li>Year:
-            {{ college.year }}</li>
+        <li>{% include translate_period.html from=college.start to=college.end %}</li>
         <li>{% include translate.html content="Degree" %}:
             {{ college.degree }}</li>
         <li>{% include translate.html content="Skills" %}:
