@@ -2,7 +2,7 @@
 title: "Mémoires Vives"
 layout: post
 tags:
-  - dubbing
+  - doublage
   - video
   - cappella
 ---
