@@ -11,7 +11,7 @@ var store = [{
 },{
 "title": "Mémoires Vives",
 "excerpt":"    Ce projet est le fruit d’un atelier d’initiation au doublage organisé par Dominique Collignon-Maurin auquel j’ai participé en temps qu’intervenant technique. Le résultat a été projeté au festival de la Commune à Montreuil, musiciens et comédiens interprétant en direct grâce à mon système Joker. ","categories": [],
-"tags": ["dubbing","video","cappella"],
+"tags": ["doublage","video","cappella"],
 "url": "/2008/09/01/memoires-vives/"
 },{
 "title": "Des Plumes et des Touches",
@@ -30,13 +30,13 @@ var store = [{
 "url": "/2018/04/16/le-ventilateur-de-la-poussiere/"
 },{
 "title": "Joker",
-"excerpt":"    Voici une vidéo générée avec le logiciel Gource présentant le développement de mon projet Joker. ","categories": [],
-"tags": ["dubbing","video","joker","opensource","github","dev"],
+"excerpt":"Voici une vidéo générée avec le logiciel Gource présentant le développement de mon projet Joker. Ce que j’aime bien dans ce post, outre le fait qu’il utilise 6 tags, signe qu’il est au coeur de mes intérêts, c’est que la réalisation de la vidéo a été à la fois extrêment...","categories": [],
+"tags": ["doublage","video","joker","opensource","github","dev"],
 "url": "/2018/07/18/joker-development/"
 },{
 "title": "DéTourNage",
 "excerpt":"    Ce projet est le fruit d’un atelier d’initiation au doublage organisé par Dominique Collignon-Maurin auquel j’ai participé en temps qu’intervenant technique et comédien. Le résultat a été projeté sur la place du marché d’Alligre dans le 12ème arrondissement, musiciens et comédiens interprétant en direct grâce au système Cappella. ","categories": [],
-"tags": ["dubbing","video","joker"],
+"tags": ["doublage","video","joker"],
 "url": "/2018/12/09/detournage/"
 },{
 "title": "Le clip de Les Cocksuckers",
@@ -66,6 +66,6 @@ var store = [{
 },{
 "title": "RecordR",
 "excerpt":"Cette vidéo présentant l’un de mes dernières applications. ","categories": [],
-"tags": ["dubbing","dev"],
+"tags": ["doublage","dev"],
 "url": "/2021/03/31/recordr/"
 }]
