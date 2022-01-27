@@ -2,7 +2,7 @@
 title: "DéTourNage"
 layout: post
 tags:
-  - dubbing
+  - doublage
   - video
   - joker
 ---
