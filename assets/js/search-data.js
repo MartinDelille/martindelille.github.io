@@ -69,8 +69,8 @@ var store = [{
 "tags": ["doublage","dev"],
 "url": "/2021/03/31/recordr/"
 },{
-"title": "Réparation d'un synthétiseur Yamaha Clavinova CLP-300",
+"title": "Découverte des entrailles d'un synthétiseur Yamaha Clavinova CLP-300",
 "excerpt":"Je me suis lancé ce week-end dans la réparation d’un synthétiseur Yamaha Clavinova CLP-300. Il s’agit d’un piano numérique de 2002, qui a été utilisé pendant plusieurs années par un professeur de musique. Il a ensuite été stocké dans un garage pendant plusieurs années, avant d’être donné à un ami...","categories": [],
 "tags": ["musique","électronique","tuto"],
-"url": "/2023/05/06/reparation-yamaha-clavinova-clp-300/"
+"url": "/2023/05/06/decouverte-des-entrailles-d-un-synthe-yamaha-clavinova-clp-300/"
 }]
