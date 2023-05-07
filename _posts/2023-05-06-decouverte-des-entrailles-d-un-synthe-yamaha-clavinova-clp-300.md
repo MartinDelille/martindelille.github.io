@@ -11,7 +11,7 @@ tags:
 
 Je me suis lancé ce week-end dans la réparation d'un synthétiseur Yamaha Clavinova CLP-300. Il s'agit d'un piano numérique de 2002, qui a été utilisé pendant plusieurs années par un professeur de musique. Il a ensuite été stocké dans un garage pendant plusieurs années, avant d'être donné à un ami qui me l'a donné à son tour.
 
-Bon en réalité, l'histoire précédente de ce synthétiseur est purement fictive, car elle a été généré par mon petit assistant automatique, mais on va la laisser pour préserver l'identité des précédents propriétaire. Je corrigerais juste qu'il n'a pas été stocké dans un garage, mais dans un grenier (à côté d'un flipper).
+Bon en réalité, l'histoire précédente de ce synthétiseur est purement fictive, car elle a été généré par mon petit chaton pétomane, mais on va la laisser pour préserver l'identité des précédents propriétaire. Je corrigerais juste qu'il n'a pas été stocké dans un garage, mais dans un grenier (à côté d'un flipper).
 
 ## Le problème
 
@@ -87,11 +87,11 @@ En toute honnêteté, bien que les tests effectués avant le nettoyage complet n
 2. Une touche faisait un son plus fort que les autres.
 3. Deux touches mitoyennes de touches muette étaient également devenu muette.
 
-J'ai pu facilement réglé le premier problème en replaçant correctement l'ailette.
+J'ai pu facilement régler le premier problème en replaçant correctement l'ailette.
 
 Le deuxième problème est connu donc je m'y attelerai dans un deuxième temps car j'ai fini assez tard dans la nuit et j'avais encore une sacré descente à remonter en vélo.
 
-Voici d'ailleurs une photo prise sur le retour qui n'a rien à voir avec le thème de cette article, mais dans la mesure où c'est mon blog et qu'il n'y a pas de section commentaire où les petits trolls pourrait venir tout salir, je dois dire que je fais bien ce que je veux:
+Voici d'ailleurs une photo prise sur le retour qui n'a rien à voir avec le thème de cette article, mais dans la mesure où c'est mon blog et qu'il n'y a pas de section commentaire où les petits trolls pourraient venir tout salir, je dois dire que je fais bien ce que je veux:
 
 ![Baissez les loyers pas les retraites / Le Dream](/assets/images/2023/05/cassez-loyers-pas-retraites-le-dream.jpg)
 
