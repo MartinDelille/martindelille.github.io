@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/MartinDelille/martindelille.github.io#readme",
   "devDependencies": {
-    "stylelint": "^15.6.0",
-    "stylelint-config-standard-scss": "^9.0.0",
-    "stylelint-order": "^6.0.3"
+    "stylelint": "^14.3.0",
+    "stylelint-config-standard-scss": "^3.0.0",
+    "stylelint-order": "^5.0.0"
   }
 }

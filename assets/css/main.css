@@ -502,6 +502,7 @@ figure.align-center figcaption { text-align: center; }
 .responsive-embed-16by9::before { padding-top: 56.25%; }
 .responsive-embed-4by3::before { padding-top: 75%; }
 .responsive-embed-1by1::before { padding-top: 100%; }
+.e-content img { display: block; margin-right: auto; margin-left: auto; }
 .subentry-title { margin-top: .5rem; margin-bottom: .5rem; }
 .skill { display: inline-block; margin: 1px; padding: 1px 5px; border-radius: 5px; background-color: #888; color: white; font-size: .8rem; }
 /*# sourceMappingURL=main.css.map */
