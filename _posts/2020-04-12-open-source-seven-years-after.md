@@ -8,7 +8,7 @@ tags:
 
 This morning *F...book* reminded me that seven years ago I pushed [my first open source project](https://github.com/atelierdesmedias/Autofacto) on *Github*. It was not a big project and it isn't even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won't last in the history of software but it was a relatevely cool project anyway.
 
-![Open source logo](/assets/images/opensource.png){: .align-center}
+![Open source logo](/assets/images/opensource.png)
 
 ## Autofacto
 
