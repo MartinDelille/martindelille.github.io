@@ -1,16 +1,10 @@
 # Welcome to my blog
 
-Here are the various way you can contribute to it:
-
-## Donate
-
-Content on the internet is usually free, but you must _think free as in free speech, not free beer._. There is a _Sponsor_ button on this page if your willing to pay me for the work I made in the past or I'll do in the future. I stopped drinking alcohol on a regular basis but I'm a coffee lover and know [some very good alcohol free beer](https://www.brewdog.com/uk/shop/beer?dietary_and_lifestyle=1717). I also dream to build this kind of ship one day:
-
 ![Le renard de Robert Surcouf](assets/images/renard.jpg)
 
 ## Make a pull request
 
-You can evenly use the [editor on GitHub](https://github.com/MartinDelille/martindelille.github.io/edit/master/README.md) to maintain and preview the content for the file that you want to fix.
+You can evenly use the [editor on GitHub](https://github.com/MartinDelille/martindelille.github.io/edit/main/README.md) to maintain and preview the content for the file that you want to fix.
 
 You can also clone the repository and fix it locally then push it on a fork and submit the pull request.
 
@@ -31,7 +25,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
