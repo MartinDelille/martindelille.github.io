@@ -4,6 +4,7 @@ extends:
 ignoreFiles:
   - assets/**/*
   - node_modules/**/*
+  - _site/**/*
 plugins:
   - stylelint-scss
   - stylelint-order
