@@ -3,7 +3,11 @@
 
 @charset "utf-8";
 
-@import "so-simple";
+@import "site-theme";
 
-@import 'blog';
-@import 'curriculum';
+html {
+  scroll-behavior: smooth;
+}
+
+@import "components/blog";
+@import "components/curriculum";

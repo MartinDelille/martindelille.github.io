@@ -45,7 +45,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Theme
 
-This jekyll instance use the [So Simple theme from mmistakes](https://github.com/mmistakes/so-simple-theme/).
+This Jekyll site uses a locally maintained theme.
 
 ## Support or Contact
 
