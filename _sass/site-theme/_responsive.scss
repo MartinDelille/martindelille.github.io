@@ -1,0 +1,6 @@
+// Native responsive helper replacing the legacy Breakpoint Sass library.
+@mixin breakpoint($width) {
+  @media (min-width: $width) {
+    @content;
+  }
+}
