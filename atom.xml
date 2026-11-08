@@ -1,221 +1,231 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2024-03-14T20:17:34+00:00</updated><id>/atom.xml</id><title type="html">Martin Delille</title><subtitle>La technique au service de l'artistique.</subtitle><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><entry><title type="html">Découverte des entrailles d’un synthétiseur Yamaha Clavinova CLP-300</title><link href="/2023/05/06/decouverte-des-entrailles-d-un-synthe-yamaha-clavinova-clp-300/" rel="alternate" type="text/html" title="Découverte des entrailles d’un synthétiseur Yamaha Clavinova CLP-300" /><published>2023-05-06T00:00:00+00:00</published><updated>2023-05-06T00:00:00+00:00</updated><id>/2023/05/06/decouverte-des-entrailles-d-un-synthe-yamaha-clavinova-clp-300</id><content type="html" xml:base="/2023/05/06/decouverte-des-entrailles-d-un-synthe-yamaha-clavinova-clp-300/">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b0/Clavinova_CLP-300.jpg&quot; alt=&quot;Yamaha Clavinova CLP-300&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Je me suis lancé ce week-end dans la réparation d’un synthétiseur Yamaha Clavinova CLP-300. Il s’agit d’un piano numérique de 2002, qui a été utilisé pendant plusieurs années par un professeur de musique. Il a ensuite été stocké dans un garage pendant plusieurs années, avant d’être donné à un ami qui me l’a donné à son tour.&lt;/p&gt;
-        &lt;p&gt;Bon en réalité, l’histoire précédente de ce synthétiseur est purement fictive, car elle a été généré par mon petit chaton pétomane, mais on va la laisser pour préserver l’identité des précédents propriétaire. Je corrigerais juste qu’il n’a pas été stocké dans un garage, mais dans un grenier (à côté d’un flipper).&lt;/p&gt;
-        &lt;h2 id=&quot;le-problème&quot;&gt;Le problème&lt;/h2&gt;
-        &lt;p&gt;Le premier problème que j’ai rencontré, c’est qu’il manquait une partie du jeu de vis. Heureusement, les vis étaient très standard et il m’a été facile de trouver celle qui manquait chez le quincailler de mon quartier. Il manque désormais la base du pied le rendant instable:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-base-pied.jpg&quot; alt=&quot;Pied du synthétiseur&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;J’attend des nouvelles de l’ancien propriétaire pour voir si il ne remet pas la main dessus, mais sinon il va falloir bricoler quelque chose.&lt;/p&gt;
-        &lt;p&gt;Le deuxième problème, c’est le fonctionnement du clavier. Il y a des touches dans la partie grave qui ne fonctionnent pas du tout. J’ai donc démonté le clavier pour voir ce qui se passait, ce qui n’était pas chose facile, mais j’ai pu trouvé une vidéo sur YouTube expliquant le truc pour démonter les touches noires, particulièrement coriaces au premier abord:&lt;/p&gt;
-        &lt;iframe src=&quot;//www.youtube.com/embed/1KuzgXSS1kA?modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; style=&quot;margin: 0 auto;display:block&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;h2 id=&quot;nettoyage-du-clavier&quot;&gt;Nettoyage du clavier&lt;/h2&gt;
-        &lt;p&gt;J’ai pu constaté une grand quantité de saleté et de poussière:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-clavier-sale.jpg&quot; alt=&quot;Clavier sale&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;J’ai donc entrepris un démontage complet:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-clavier-demonte.jpg&quot; alt=&quot;Clavier démonté&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Puis un nettoyage en profondeur:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-vaisselle-de-touches.jpg&quot; alt=&quot;Vaisselle de touches&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-sechage-de-touches.jpg&quot; alt=&quot;Séchage de touches&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Le remontage du clavier a été assez simple mais par contre il faut s’armer de patience pour remettre chaque contrôleur, touche et ailette bien à sa place.&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-remontage-des-controleurs.jpg&quot; alt=&quot;Remontage des contrôleurs&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-remontage-des-touches.jpg&quot; alt=&quot;Remontage des touches&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Si les noirs sont toutes identiques, chaque touche blanche est spécifique. La note étant indiquée dessus pour éviter les erreurs, celà ajoute ainsi à cette petite activité manuelle un challenge mélodique assez simple mais distrayant!&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-remontage-des-ailettes.jpg&quot; alt=&quot;Remontage des ailettes&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Je ne saurais que trop vous recommander de vous mettre une bonne bande son avec du synthé. Voici un extrait de ce que j’ai écouté lors de cette phase à la limite de la méditation transcendentale:&lt;/p&gt;
-        &lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/playlist/0MDv1nMsywCystEzM3LTQh?utm_source=generator&amp;amp;theme=0&quot; width=&quot;100%&quot; height=&quot;352&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
-        &lt;p&gt;Coté électronique, j’ai également nettoyé les connecteurs à base de bombe contact et d’alcool isopropylique à 99%:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-carte-contact.jpg&quot; alt=&quot;Carte contact&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/bombe-contact.jpg&quot; alt=&quot;Bombe contact&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/alcool-isopropylique.jpg&quot; alt=&quot;Alcool isopropylique&quot; /&gt;&lt;/p&gt;
-        &lt;h2 id=&quot;premiers-tests&quot;&gt;Premiers tests&lt;/h2&gt;
-        &lt;p&gt;Alors déjà qu’on soit bien clair, je n’ai pas été aussi loin dans le nettoyage avant de procéder à des tests. J’ai fait plusieurs aller/retour en démontant de façon limité le clavier pour voir si mes actions avaient un impact sur le problème de touche muette.&lt;/p&gt;
-        &lt;p&gt;Malheureusement, ça n’a eu aucun impact, mais au vu de la saleté du clavier, j’ai quand même juger utile de le nettoyer complètement pour prévenir de futurs pannes.&lt;/p&gt;
-        &lt;p&gt;J’ai alors fait fonctionner le synthétiseur en court-circuitant le clavier:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-fonctionnement-eclate.jpg&quot; alt=&quot;Fonctionnement éclaté&quot; /&gt;&lt;/p&gt;
-        &lt;iframe src=&quot;//www.youtube.com/embed/-_EDdJL-7tU?modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; style=&quot;margin: 0 auto;display:block&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;p&gt;Comme vous pouvez le constater, le problème étant toujours présent, il ne s’agit donc pas d’un problème de clavier mais d’un problème électronique. N’étant à ce moment là pas équipé de mon multimètre, je n’ai pas pu avancer plus loin dans mes tests.&lt;/p&gt;
-        &lt;p&gt;En toute honnêteté, bien que les tests effectués avant le nettoyage complet n’aient montré ni amélioration ni détérioration, le nettoyage a entraîné l’apparition de trois problèmes supplémentaires :&lt;/p&gt;
-        &lt;ol&gt;
-        &lt;li&gt;Une touche ne remontait pas de façon fluide.&lt;/li&gt;
-        &lt;li&gt;Une touche faisait un son plus fort que les autres.&lt;/li&gt;
-        &lt;li&gt;Deux touches mitoyennes de touches muette étaient également devenu muette.&lt;/li&gt;
-        &lt;/ol&gt;
-        &lt;p&gt;J’ai pu facilement régler le premier problème en replaçant correctement l’ailette.&lt;/p&gt;
-        &lt;p&gt;Le deuxième problème est connu donc je m’y attelerai dans un deuxième temps car j’ai fini assez tard dans la nuit et j’avais encore une sacré descente à remonter en vélo.&lt;/p&gt;
-        &lt;p&gt;Voici d’ailleurs une photo prise sur le retour qui n’a rien à voir avec le thème de cette article, mais dans la mesure où c’est mon blog et qu’il n’y a pas de section commentaire où les petits trolls pourraient venir tout salir, je dois dire que je fais bien ce que je veux:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/cassez-loyers-pas-retraites-le-dream.jpg&quot; alt=&quot;Baissez les loyers pas les retraites / Le Dream&quot; /&gt;&lt;/p&gt;
-        &lt;h2 id=&quot;prochains-travaux&quot;&gt;Prochains travaux&lt;/h2&gt;
-        &lt;p&gt;Je ne compte pas en rester là, car d’une part, j’avoue que cette activité était passionnante. Je suis plutôt habitué à travailler sur ordinateur, or mélanger activité intellectuelle et manuelle est des plus exaltant!&lt;/p&gt;
-        &lt;p&gt;Dans les pistes que j’ai, je pense déjà à tester les diodes de la carte contact:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/clavinova-carte-contact-diodes.jpg&quot; alt=&quot;Carte contact diodes&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Elles semblent en bonne état, mais bon j’en aurais le coeur net. Il est aussi probable qu’il s’agisse d’un câble du connecteur qui soit endommagé, mes manipulations aurait effectivement pu endommager encore plus cette pièce si elle était déjà défectueuse.&lt;/p&gt;
-        &lt;p&gt;D’autre part, j’ai mis la main sur le &lt;a href=&quot;/assets/images/2023/05/CLP300_SM_C.pdf&quot;&gt;manuel de service&lt;/a&gt; et le &lt;a href=&quot;/assets/images/2023/05/CLP300_CD_C.tiff&quot;&gt;diagrame du circuit&lt;/a&gt; :&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/2023/05/CLP300_CD_C.jpg&quot; alt=&quot;Schéma du circuit&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Si vous avez un conseil à me donner pour avancer, je suis preneur! Vous pouvez donc me contacter à l’adresse suivante: &lt;a href=&quot;mailto:martin@delille.org&quot;&gt;martin@delille.org&lt;/a&gt;&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="musique" /><category term="électronique" /><category term="tuto" /><summary type="html"></summary></entry><entry><title type="html">RecordR</title><link href="/2021/03/31/recordr/" rel="alternate" type="text/html" title="RecordR" /><published>2021-03-31T00:00:00+00:00</published><updated>2021-03-31T00:00:00+00:00</updated><id>/2021/03/31/recordr</id><content type="html" xml:base="/2021/03/31/recordr/">&lt;iframe src=&quot;//www.youtube.com/embed/_m6N9mQYLhU?modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; style=&quot;margin: 0 auto;display:block&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;p&gt;Cette vidéo présentant l’un de mes dernières applications.&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="doublage" /><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Tuto pour trier ses playlist YouTube</title><link href="/2021/03/22/tuto-tri-playlist-youtube/" rel="alternate" type="text/html" title="Tuto pour trier ses playlist YouTube" /><published>2021-03-22T00:00:00+00:00</published><updated>2021-03-22T00:00:00+00:00</updated><id>/2021/03/22/tuto-tri-playlist-youtube</id><content type="html" xml:base="/2021/03/22/tuto-tri-playlist-youtube/">&lt;iframe src=&quot;//www.youtube.com/embed/k7vA7eHLgTk?modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; style=&quot;margin: 0 auto;display:block&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;p&gt;Tout est dans le titre.&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><category term="tuto" /><summary type="html"></summary></entry><entry><title type="html">Tuto pour partager son bureau avec un sac à patate</title><link href="/2020/05/02/tuto-pour-partager-son-bureau-avec-un-sac-a-patate/" rel="alternate" type="text/html" title="Tuto pour partager son bureau avec un sac à patate" /><published>2020-05-02T00:00:00+00:00</published><updated>2020-05-02T00:00:00+00:00</updated><id>/2020/05/02/tuto-pour-partager-son-bureau-avec-un-sac-a-patate</id><content type="html" xml:base="/2020/05/02/tuto-pour-partager-son-bureau-avec-un-sac-a-patate/">&lt;iframe src=&quot;//www.youtube.com/embed/1OCJ4bdA-ik?modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; style=&quot;margin: 0 auto;display:block&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;p&gt;Le confinement nous oblige à utiliser des outils 100% numérique pour travailler, et on regrette le temps de la réunion et du bon vieux papier crayon. Voici un moyen low tech pour pallier à ce problème.&lt;/p&gt;
-        &lt;p&gt;Vous aurez-besoin des éléments suivants:&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;Bureau&lt;/li&gt;
-        &lt;li&gt;Système de visio conférence (type https://jitsi.org/)&lt;/li&gt;
-        &lt;li&gt;Téléphone avec caméra et connexion réseau&lt;/li&gt;
-        &lt;li&gt;Lampe d’architecte&lt;/li&gt;
-        &lt;li&gt;Sac à patate&lt;/li&gt;
-        &lt;li&gt;Pince à linge&lt;/li&gt;
-        &lt;li&gt;Papier&lt;/li&gt;
-        &lt;li&gt;Crayons&lt;/li&gt;
-        &lt;/ul&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><category term="tuto" /><category term="jitsi" /><category term="teletravail" /><summary type="html"></summary></entry><entry><title type="html">Visioconférence avec Jitsi: retour d’expérience</title><link href="/2020/05/02/visioconference-avec-jitsi/" rel="alternate" type="text/html" title="Visioconférence avec Jitsi: retour d’expérience" /><published>2020-05-02T00:00:00+00:00</published><updated>2020-05-02T00:00:00+00:00</updated><id>/2020/05/02/visioconference-avec-jitsi</id><content type="html" xml:base="/2020/05/02/visioconference-avec-jitsi/">&lt;p&gt;Je commence cet article en pleine conférence sur &lt;a href=&quot;https://zoom.us&quot;&gt;Zoom&lt;/a&gt;, une plate-forme de visioconférence très en vogue en cette période de confinement.&lt;/p&gt;
-        &lt;p&gt;Je ne suis pas un grand fan de la &lt;em&gt;start up nation&lt;/em&gt; de notre cher président et lorsqu’il s’agit d’utiliser un outil, je préfère toujours envisager les alternatives. Or au début du confinement, &lt;a href=&quot;https://www.atelier-medias.org/coworkers/thomas-mortagne/&quot;&gt;Thomas Mortagne&lt;/a&gt;, le responsable du groupe &lt;em&gt;Informatique&lt;/em&gt; de mon association &lt;a href=&quot;https://www.atelier-medias.org&quot;&gt;l’Atelier des Médias&lt;/a&gt; a installé une instance du service &lt;a href=&quot;https://jitsi.org/&quot;&gt;Jitsi&lt;/a&gt; sur notre serveur &lt;a href=&quot;https://www.ovh.com/&quot;&gt;OVH&lt;/a&gt;:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/jitsi.png&quot; alt=&quot;Jitsi&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Il fut très agréablement surpris par la simplicité d’installation du service donc la configuration se limitait à deux ou trois manipulations assez basiques.&lt;/p&gt;
-        &lt;h2 id=&quot;la-cuisine-virtuelle&quot;&gt;La cuisine virtuelle&lt;/h2&gt;
-        &lt;p&gt;La situation du confinement était problématique pour notre association qui consiste en un lieu de travail en autogestion dont l’objectif est justement de rompre la solitude des télétravailleur.e.s salarié.e.s ou indépendant.e.s.&lt;/p&gt;
-        &lt;p&gt;Et si une visioconférence ne vaut pas un vrai rapport humain, c’est toujours mieux qu’une conversation type &lt;em&gt;F…book&lt;/em&gt; où il existe un risque de mauvaise interprétation des écrits.&lt;/p&gt;
-        &lt;p&gt;Le caractère spontané qui est de mise sur les réseaux sociaux est toujours source de problématique et de conflit.
-        On a tous nos petites histoires à raconter sur le sujet:&lt;/p&gt;
-        &lt;iframe style=&quot;margin: 0 auto;display:block&quot; src=&quot;https://giphy.com/embed/9o9dh1JRGThC1qxGTJ&quot; width=&quot;480&quot; height=&quot;357&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;p&gt;Nous avons donc créé un salon dédié simulant notre regrettée cuisine (moche) en instaurant des horaires de retrouvaille quotidienne. Cela nous permettait de nous retrouver occasionnellement au hasard des connexions.&lt;/p&gt;
-        &lt;p&gt;Cet espace s’est révélé particulièrement précieux pour faire part notamment de nos inquiétudes ou espoirs sur l’avenir et ainsi rompre la solitude qui est le lot d’une bonne partie d’entre nous. Pour ceux confinés en famille, ça permettait ainsi de se changer les idées en voyant de nouvelles têtes.&lt;/p&gt;
-        &lt;h2 id=&quot;le-cabaret-des-coworkers-confinés&quot;&gt;Le Cabaret des Coworkers Confinés&lt;/h2&gt;
-        &lt;p&gt;Dans un deuxième temps, &lt;a href=&quot;https://www.atelier-medias.org/claire-morel-creatrice-editoriale-jaime-rendre-un-sujet-hermetique-facile-a-comprendre/&quot;&gt;Claire Morel&lt;/a&gt; du groupe &lt;em&gt;Vie Associative&lt;/em&gt; dont je fais partie a décidé d’organiser une teuf virtuelle.&lt;/p&gt;
-        &lt;p&gt;On s’est pas mal posé de questions sur la faisabilité d’une telle soirée du fait du nombre potentiellement grand d’un tel évènement (en général, on est au moins une trentaine de personnes lors des soirées physique pré confino).&lt;/p&gt;
-        &lt;p&gt;Après étude des différentes alternatives payantes ou gratuites, nous avons décidé en concertation avec le groupe informatique de rester sur &lt;em&gt;Jitsi&lt;/em&gt;, mais en augmentant la capacité de notre serveur afin qu’il puisse supporter une charge dont nous n’avions pas vraiment d’idée.&lt;/p&gt;
-        &lt;p&gt;Au niveau du fonctionnement, l’idée d’un cabaret qui nous trottait déjà dans la tête avant le confinement nous a paru idéale. Ainsi jailli le concept du &lt;em&gt;Cabaret des Coworkers Confinés&lt;/em&gt;:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/cabaret.jpg&quot; alt=&quot;Cabaret des Coworkers Confinés&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Cela consista en:&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;Une animatrice aux mille tenues, clin d’oeil aux speakerines de la télévision sous &lt;a href=&quot;https://fr.wikipedia.org/wiki/Ren%C3%A9_Coty&quot;&gt;René Cotty&lt;/a&gt; qui distribuait les tours de paroles.&lt;/li&gt;
-        &lt;li&gt;Une animation ou une vidéo concocté par les coworkers souhaitant dévoiler l’un de leur nombreux talents.&lt;/li&gt;
-        &lt;li&gt;Un salon de discussion pour commenter (y’avait mêmes des petits trolls [car c’est souvent là qu’ils se cachent], mais gentils).&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;p&gt;Afin de bien m’assurer que tout se passe bien, je me suis fendu d’un petit tuto &lt;em&gt;Youtube&lt;/em&gt; explicatif:&lt;/p&gt;
-        &lt;iframe src=&quot;//www.youtube.com/embed/e4IF-Q_PIzs?modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; style=&quot;margin: 0 auto;display:block&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;p&gt;Et voici le résultat:&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/cabaret-mosaique.jpg&quot; alt=&quot;Mosaique&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/cabaret-guitare.jpg&quot; alt=&quot;Guitare&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/cabaret-danse-du-gel.jpg&quot; alt=&quot;Danse du gel&quot; /&gt;&lt;/p&gt;
-        &lt;h2 id=&quot;le-bilan&quot;&gt;Le bilan&lt;/h2&gt;
-        &lt;h3 id=&quot;les-points-positifs&quot;&gt;Les points positifs&lt;/h3&gt;
-        &lt;p&gt;Voici la liste des points positifs que nous avons retiré de cette expérience:&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;Face au confinement, l’association a su rapidement mettre en place une solution pour pallier l’isolement.&lt;/li&gt;
-        &lt;li&gt;La simplicité déconcertante d’installation et d’utilisation.&lt;/li&gt;
-        &lt;li&gt;La solution maison n’obligeait pas les membres à s’inscrire sur une plateforme type &lt;em&gt;F…book&lt;/em&gt;, &lt;em&gt;G..gle&lt;/em&gt; ou autres exploitants de données personnelles, qui auraient pu exclure une partie des membres.&lt;/li&gt;
-        &lt;li&gt;La possibilité de personnaliser l’interface avec notre logo.&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;h3 id=&quot;les-points-négatifs&quot;&gt;Les points négatifs&lt;/h3&gt;
-        &lt;p&gt;Et oui, il ne faut pas se voiler la face, il n’est pas sorti que du positif de cet expérience ce qui m’invite à nuancer la performance de cette outil:&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;La rigueur que demande l’utilisation de l’outil: en effet, pour le créateur de la salle, il faut s’astreindre à une certaine hygiène en matière d’échange de donnée:
-        &lt;ul&gt;
-        &lt;li&gt;L’utilisateur doit faire attention à maîtriser l’ouverture de son micro pour limiter le bruit ambiant dans la visioconférence (le modérateur peut lui couper le micro si besoin, mais ce n’est pas facile de tout gérer parfois).&lt;/li&gt;
-        &lt;li&gt;L’envoi de sa vidéo coûte en bande passante donc est à utiliser avec parcimonie, en particulier lorsqu’on n’est pas connecté en fibre.&lt;/li&gt;
-        &lt;li&gt;La qualité vidéo est réglable et la qualité minimum est suffisante pour une bonne interaction (le réglage par défaut permet une qualité pour une diffusion sur une chaîne hertzienne, ce qui est bien au dessus du besoin courant):
-        &lt;img src=&quot;/assets/images/jitsi-video-settings.jpg&quot; alt=&quot;Réglage vidéo&quot; /&gt;
-        &lt;img src=&quot;/assets/images/jitsi-video-quality.jpg&quot; alt=&quot;Qualité vidéo&quot; /&gt;&lt;/li&gt;
-        &lt;li&gt;Le modérateur peut configurer la salle pour que les participants arrivent avec le micro et la caméra coupée par défaut:
-        &lt;img src=&quot;/assets/images/jitsi-settings-plus.jpg&quot; alt=&quot;Réglage plus&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Les difficultés techniques qu’une personne isolée peut rencontrer peuvent être très frustrantes et mener à l’abandon de la visioconférence.&lt;/li&gt;
-        &lt;li&gt;Les droits de modération semblent assez basiques (mais je n’ai pas étudié plus que ça la question) et si pour une raison ou pour une autre, le créateur de la salle doit se déconnecter, il perd la possibilité de modération qui échoit à la deuxième personne qui s’est connectée (c’est ce qu’il s’est passé pendant la soirée, et du coup je ne pouvais plus couper le son des distraits).&lt;/li&gt;
-        &lt;li&gt;Nous avons constaté que plus il y avait de participants, plus ça augmentait le flux réseau à absorber et à décoder par chacun. C’est dû à la méthode &lt;a href=&quot;https://webrtcglossary.com/sfu/&quot;&gt;SFU&lt;/a&gt; qu’implémente &lt;em&gt;Jitsi&lt;/em&gt; pour répartir les flux de donnée:
-        &lt;img src=&quot;/assets/images/webrtc-sfu.jpg&quot; alt=&quot;Qualité vidéo&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-        &lt;p&gt;Est-ce qu’on peut dire après cet article que &lt;em&gt;Jitsi&lt;/em&gt; est mieux ou moins bien que &lt;em&gt;Zoom&lt;/em&gt; ? C’est bien évidemment impossible de répondre simplement à cette question. Cela dépend déjà de si vous êtes un particulier ou une organisation, ainsi que votre niveau de compétence technique.&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;Zoom&lt;/em&gt; offre très clairement de bonne performance technique moyennant l’installation d’un logiciel sur son ordinateur car il y a une équipe derrière qui s’assure que tout fonctionne bien. Les comptes &lt;em&gt;Premiums&lt;/em&gt; ont bien entendu un accès privilégié et plus de liberté sur l’utilisation de l’outil.&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;Jitsi&lt;/em&gt; est plus simple d’utilisation pour l’utilisateur à condition qu’il soit bien administré, ce qui n’est pas une tâche facile car cela demande une bonne connaissance de l’outil et du temps.&lt;/p&gt;
-        &lt;p&gt;On pourrait presque dire qu’il s’agit d’un choix avec le [faux] sentiment de sécurité de la solution propriétaire toute faite d’un côté et l’aventure de la gestion locale de l’autre.&lt;/p&gt;
-        &lt;p&gt;Je terminerai avec cette citation de &lt;a href=&quot;https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine&quot;&gt;Mikhaïl Bakounine&lt;/a&gt;:&lt;/p&gt;
-        &lt;blockquote&gt;
-        &lt;p&gt;La liberté des autres, étend la mienne à l’infini&lt;/p&gt;
-        &lt;/blockquote&gt;
-        &lt;p&gt;Bon confinement!&lt;/p&gt;
-        &lt;p&gt;Martin&lt;/p&gt;
-        &lt;p&gt;PS:&lt;/p&gt;
-        &lt;p&gt;Pour en savoir plus sur les problèmes avec &lt;em&gt;Zoom&lt;/em&gt;:&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&quot;https://daringfireball.net/2020/03/regarding_zoom&quot;&gt;https://daringfireball.net/2020/03/regarding_zoom&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://info.haas-avocats.com/droit-digital/zoom-a-t-il-deliberement-cache-ses-failles-de-securite&quot;&gt;https://info.haas-avocats.com/droit-digital/zoom-a-t-il-deliberement-cache-ses-failles-de-securite&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="jitsi" /><category term="teletravail" /><summary type="html">Je commence cet article en pleine conférence sur Zoom, une plate-forme de visioconférence très en vogue en cette période de confinement.</summary></entry><entry><title type="html">Open Source: Seven years after</title><link href="/2020/04/12/open-source-seven-years-after/" rel="alternate" type="text/html" title="Open Source: Seven years after" /><published>2020-04-12T00:00:00+00:00</published><updated>2020-04-12T00:00:00+00:00</updated><id>/2020/04/12/open-source-seven-years-after</id><content type="html" xml:base="/2020/04/12/open-source-seven-years-after/">&lt;p&gt;This morning &lt;em&gt;F…book&lt;/em&gt; reminded me that seven years ago I pushed &lt;a href=&quot;https://github.com/atelierdesmedias/Autofacto&quot;&gt;my first open source project&lt;/a&gt; on &lt;em&gt;Github&lt;/em&gt;. It was not a big project and it isn’t even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won’t last in the history of software but it was a relatevely cool project anyway.&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/opensource.png&quot; alt=&quot;Open source logo&quot; /&gt;&lt;/p&gt;
-        &lt;h2 id=&quot;autofacto&quot;&gt;Autofacto&lt;/h2&gt;
-        &lt;p&gt;My coworker in charge of the accountability of our self-managed coworking space was spending two hours every months to send an invoice to each coworker using a template and filling the appropriate info. It wasn’t a very interesting task but it has to be done because each coworker need a bill for the rent.&lt;/p&gt;
-        &lt;p&gt;I remind me thinking on how to automate the process by writing a simple document describing the process. I submited it to my coworkers and one of them wondered why I wanted a validation about changing the process: “If you want to change the way we send bill, just do it!”. Since I had some experience on &lt;a href=&quot;https://developers.google.com/apps-script/&quot;&gt;Google Apps Script&lt;/a&gt;, I managed to easily parse a spreadsheet containing all my colleague information (name, billing adress, formula, …), fill the invoice template, export it in &lt;em&gt;PDF&lt;/em&gt; and send it by email.&lt;/p&gt;
-        &lt;p&gt;The operation wasn’t slow but wasn’t fast also so I decided to add a fancy color feature allowing my friend to visualize which invoice were processed in real time. Some people will tell you that there is no need for fancy thing in software but when humans are involved you need to give feedback, preferably respecting visual standard.&lt;/p&gt;
-        &lt;h2 id=&quot;first-publication&quot;&gt;First publication&lt;/h2&gt;
-        &lt;p&gt;Once finished, I decided to publish my work as an experiment: I had heard about open source software since a few years and I wondered how it worked, why people were doing this, and also why open source software were always so ugly and not user friendly. Were open source software developer bad developer?&lt;/p&gt;
-        &lt;p&gt;I also told myself that I wrote this piece of software so why would I hide it? I wasn’t exposing any personal data since the script had to be triggered from the spreadsheet and it was working so there was no reason. On the oposite I spot the following benefit of sharing my work:&lt;/p&gt;
-        &lt;ol&gt;
-        &lt;li&gt;Having an auditable invoicing system was a great warranty for my coworker&lt;/li&gt;
-        &lt;li&gt;When scientist want to validate an experiment, they publish their work to be validated by their peers&lt;/li&gt;
-        &lt;li&gt;If my coworking space advertise the system, we could be add more developer to it from other coworking space and benefit from each other work instead of developing n-times the same thing&lt;/li&gt;
-        &lt;/ol&gt;
-        &lt;p&gt;In fact this was a little step for our organization but I had the feeling it could be a big step for all coworking spaces in the world: it litterally &lt;em&gt;blew&lt;/em&gt; my mind…&lt;/p&gt;
-        &lt;h2 id=&quot;open-source-mania&quot;&gt;Open source mania&lt;/h2&gt;
-        &lt;p&gt;I decided to open source everything, then came the shit with &lt;em&gt;Edward Snowden&lt;/em&gt; revelation and I had a real crisis with trusting closed source software. I met a lot of people and if some were very interesting (I remember an amazing conference about the &lt;a href=&quot;https://www.debian.org/&quot;&gt;Debian&lt;/a&gt; governance), I was using these two words several time per conversation which made my friends and family freaked out. I was also slowly digging into another reality full of fake news and conspiracy theory due to my addication to &lt;em&gt;F…book&lt;/em&gt;.&lt;/p&gt;
-        &lt;p&gt;I tried then to find an outlet for my speech by joining &lt;a href=&quot;https://radiocanut.org/&quot;&gt;Radio Canut&lt;/a&gt;, an independent local radio in &lt;em&gt;Lyon&lt;/em&gt; powered by its radio hosts, paying for broadcasting. My project was to speak about open source and playing vinyls. I managed to make a pilot that was accepted… the day I realized I couldn’t pay my rent anymore, my owner died and his family were suing me because they had to deal between their mourning and the banks.&lt;/p&gt;
-        &lt;p&gt;I had been floating the head in the star and totally forgot about my basis: I fell into a quite deep depression…&lt;/p&gt;
-        &lt;h2 id=&quot;personal-conclusion&quot;&gt;Personal conclusion&lt;/h2&gt;
-        &lt;p&gt;Since then I tried to take my distance with what happened but I realised what open source software has brought me:&lt;/p&gt;
-        &lt;p&gt;Basically it has been a source of learning of many learning:&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;I learn how to automate almost everything in the validation process of my software, giving me confidence in each modification I made&lt;/li&gt;
-        &lt;li&gt;I learn new language when for example I was using a tool that wasn’t doing exactly what I wanted to do, I sometimes had to implement it by myselft&lt;/li&gt;
-        &lt;li&gt;I learn a lot about code quality when trying to make my work accepted by project maintainers&lt;/li&gt;
-        &lt;li&gt;I learn to communicate with other developer on the internet which as nothing to do with communicating with other kind of human being were you need to add recurring politeness formula (developer hate unnecessary noise that endangers their concentration)&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;p&gt;I also earn a lot of control on systems in general.&lt;/p&gt;
-        &lt;p&gt;&lt;img src=&quot;/assets/images/donquichote.jpg&quot; alt=&quot;Don Quichote&quot; /&gt;&lt;/p&gt;
-        &lt;p&gt;Seven years after, I still have trouble not starting a war against private software but at least I made some concession: we live in a world were private company owns the means of production and I’m not going to change that. I just keep going publishing my work because I still don’t see no valid reason not doing it.&lt;/p&gt;
-        &lt;p&gt;My dream is intact then, but I know I’ll always be a weirdo to most people because it would need too much time to explain and people just don’t want to suffer even the sumary of seven years of thought about it so I don’t know if I need to close my source but at least I really need to learn how to shut up and this confinment situation is a good time for that.&lt;/p&gt;
-        &lt;h2 id=&quot;would-you-cross-the-bridge-&quot;&gt;Would you cross the bridge ?&lt;/h2&gt;
-        &lt;p&gt;My last questions I would like to ask to you readers:&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;&lt;em&gt;“What are your feeling about publishing its work on the Internet?”&lt;/em&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;em&gt;“What danger do you see in it? Which opportunities ?”&lt;/em&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;p&gt;Thanks for reading until there!&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="opensource" /><category term="github" /><summary type="html">This morning F…book reminded me that seven years ago I pushed my first open source project on Github. It was not a big project and it isn’t even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won’t last in the history of software but it was a relatevely cool project anyway.</summary></entry><entry><title type="html">Le clip de Les Cocksuckers</title><link href="/2019/12/19/le-clip-de-les-cocksuckers/" rel="alternate" type="text/html" title="Le clip de Les Cocksuckers" /><published>2019-12-19T00:00:00+00:00</published><updated>2019-12-19T00:00:00+00:00</updated><id>/2019/12/19/le-clip-de-les-cocksuckers</id><content type="html" xml:base="/2019/12/19/le-clip-de-les-cocksuckers/">&lt;iframe src=&quot;//www.youtube.com/embed/7619k9WT9XI?modestbranding=1&amp;amp;showinfo=0&amp;amp;rel=0&quot; style=&quot;margin: 0 auto;display:block&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-        &lt;/iframe&gt;
-        &lt;p&gt;Voici un projet dont je suis pas peu fier: le clip de mon groupe de punk “Les Cocksuckers” dont j’ai fait la réalisation et le montage.&lt;/p&gt;
-        &lt;p&gt;Ce projet fait usage de la technique du fond vert et du stop-motion.&lt;/p&gt;
-        &lt;p&gt;Production/direction artistique/story board : Les Cocksuckers&lt;/p&gt;
-        &lt;ul&gt;
-        &lt;li&gt;Réalisation/montage : Martin Delille&lt;/li&gt;
-        &lt;li&gt;Assistante réalisation : Maddie Vella&lt;/li&gt;
-        &lt;li&gt;Chef opérateur : Santiago Roel&lt;/li&gt;
-        &lt;li&gt;Assistant caméra : Audric Reynaud&lt;/li&gt;
-        &lt;li&gt;Scripte : Violette Hyounet&lt;/li&gt;
-        &lt;li&gt;Machinistes : Lola Ruet et Thibault David&lt;/li&gt;
-        &lt;li&gt;Electro : Hugo Bottin&lt;/li&gt;
-        &lt;li&gt;Régisseuse : Justine Broeckaert&lt;/li&gt;
-        &lt;li&gt;Catering : Anne Grieci&lt;/li&gt;
-        &lt;li&gt;Graphisme : Gregg Suazo&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;p&gt;Enregistrement/mixage/mastering : Yannick Marlin, Studio Audiotellus&lt;/p&gt;
-        &lt;p&gt;Mécène : Thierry, prêt du hangar du Blogg, lieu de tournage, pendant un week-end.&lt;/p&gt;
-        &lt;p&gt;Sponsors : Alexandre Froidefond, Augustin Ayoub, Benoit Saboureault, Brice Lemoine, Jean-Olivier Paissé, Jérémy Thillet, Julien Gamard, MOD, Marcela Lazzari, Marielle Perrin, Marion Hummer, Marina Roel, Nicolas Delille, Thibaut Delille, Corentin Delille, Perrine Demongeot, Pierig Bertho, Remi Parcollet.&lt;/p&gt;
-        &lt;p&gt;Figurants : Alexandre Froidefond, Anne Grieci, Christelle Leblanc, Christelle Suazo, David Badin, Franck Mezière, Franck Suazo, Frédéric Camus, Guillaume Guazzeli, Ivan Debay, Jean-Olivier Païssé, Jérémy Thillet, Jerome Lavoile, Jo Mongarny, Julia Pouly, Julie Rieubon, Karin Maréchal, Lilian Thollet, Loïc Horlin, Marie Delore, Nelly Rotat, Nicolas Couplin, Pierre-Edouard Brion, Raphaël Gavoille, Sarah Dutreille, Stéphane Vetzel, Yannick Marlin, Yves Séité.&lt;/p&gt;
-        &lt;p&gt;Autres remerciements : The Datsuns, Marine Hennes, Lina, Ludovic Benas, Tristan Defay, le studio Lylo, Myriam Copier, Camille Geoffray, Arno Le Liegard et Transpalux.&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><category term="musique" /><category term="stop-motion" /><category term="trucage" /><summary type="html"></summary></entry><entry><title type="html">DéTourNage</title><link href="/2018/12/09/detournage/" rel="alternate" type="text/html" title="DéTourNage" /><published>2018-12-09T00:00:00+00:00</published><updated>2018-12-09T00:00:00+00:00</updated><id>/2018/12/09/detournage</id><content type="html" xml:base="/2018/12/09/detournage/">&lt;!-- _includes/vimeo.html --&gt;
-        &lt;div class=&quot;image-wrapper&quot;&gt;
-        &lt;iframe src=&quot;//player.vimeo.com/video/305504959&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-        &lt;/div&gt;
-        &lt;p&gt;Ce projet est le fruit d’un atelier d’initiation au doublage organisé par &lt;a href=&quot;https://fr.wikipedia.org/wiki/Dominique_Collignon-Maurin&quot;&gt;Dominique Collignon-Maurin&lt;/a&gt; auquel j’ai participé en temps qu’intervenant technique et comédien.&lt;/p&gt;
-        &lt;p&gt;Le résultat a été projeté sur la place du marché d’Alligre dans le 12ème arrondissement, musiciens et comédiens interprétant en direct grâce au système &lt;a href=&quot;http:://www.cappella.tv&quot;&gt;Cappella&lt;/a&gt;.&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="doublage" /><category term="video" /><category term="joker" /><summary type="html"></summary></entry><entry><title type="html">Joker</title><link href="/2018/07/18/joker-development/" rel="alternate" type="text/html" title="Joker" /><published>2018-07-18T00:00:00+00:00</published><updated>2018-07-18T00:00:00+00:00</updated><id>/2018/07/18/joker-development</id><content type="html" xml:base="/2018/07/18/joker-development/">&lt;!-- _includes/vimeo.html --&gt;
-        &lt;div class=&quot;image-wrapper&quot;&gt;
-        &lt;iframe src=&quot;//player.vimeo.com/video/282508684&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-        &lt;/div&gt;
-        &lt;p&gt;Voici une vidéo générée avec le logiciel &lt;a href=&quot;https://gource.io/&quot;&gt;Gource&lt;/a&gt; présentant le développement de mon projet &lt;a href=&quot;https://github.com/martindelille/Joker&quot;&gt;Joker&lt;/a&gt;.&lt;/p&gt;
-        &lt;p&gt;Ce que j’aime bien dans ce post, outre le fait qu’il utilise 6 tags, signe qu’il est au coeur de mes intérêts, c’est que la réalisation de la vidéo a été à la fois extrêment rapide (quelques dizaines de secondes, et extrêment long (plusieurs années de développement).&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="doublage" /><category term="video" /><category term="joker" /><category term="opensource" /><category term="github" /><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Le Ventilateur de la poussière</title><link href="/2018/04/16/le-ventilateur-de-la-poussiere/" rel="alternate" type="text/html" title="Le Ventilateur de la poussière" /><published>2018-04-16T00:00:00+00:00</published><updated>2018-04-16T00:00:00+00:00</updated><id>/2018/04/16/le-ventilateur-de-la-poussiere</id><content type="html" xml:base="/2018/04/16/le-ventilateur-de-la-poussiere/">&lt;!-- _includes/vimeo.html --&gt;
-        &lt;div class=&quot;image-wrapper&quot;&gt;
-        &lt;iframe src=&quot;//player.vimeo.com/video/264939481&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-        &lt;/div&gt;
-        &lt;p&gt;Film réalisé dans le cadre du festival 48 heures plus tard des Intergalactices à Lyon.&lt;/p&gt;</content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><summary type="html"></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2026-11-08T07:06:38+00:00</updated><id>/atom.xml</id><title type="html">Martin Delille</title><subtitle>La technique au service de l&apos;artistique.</subtitle><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><entry><title type="html">Découverte des entrailles d’un synthétiseur Yamaha Clavinova CLP-300</title><link href="/2023/05/06/decouverte-des-entrailles-d-un-synthe-yamaha-clavinova-clp-300/" rel="alternate" type="text/html" title="Découverte des entrailles d’un synthétiseur Yamaha Clavinova CLP-300" /><published>2023-05-06T00:00:00+00:00</published><updated>2023-05-06T00:00:00+00:00</updated><id>/2023/05/06/decouverte-des-entrailles-d-un-synthe-yamaha-clavinova-clp-300</id><content type="html" xml:base="/2023/05/06/decouverte-des-entrailles-d-un-synthe-yamaha-clavinova-clp-300/"><![CDATA[<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Clavinova_CLP-300.jpg" alt="Yamaha Clavinova CLP-300" /></p>
+      <p>Je me suis lancé ce week-end dans la réparation d’un synthétiseur Yamaha Clavinova CLP-300. Il s’agit d’un piano numérique de 2002, qui a été utilisé pendant plusieurs années par un professeur de musique. Il a ensuite été stocké dans un garage pendant plusieurs années, avant d’être donné à un ami qui me l’a donné à son tour.</p>
+      <p>Bon en réalité, l’histoire précédente de ce synthétiseur est purement fictive, car elle a été généré par mon petit chaton pétomane, mais on va la laisser pour préserver l’identité des précédents propriétaire. Je corrigerais juste qu’il n’a pas été stocké dans un garage, mais dans un grenier (à côté d’un flipper).</p>
+      <h2 id="le-problème">Le problème</h2>
+      <p>Le premier problème que j’ai rencontré, c’est qu’il manquait une partie du jeu de vis. Heureusement, les vis étaient très standard et il m’a été facile de trouver celle qui manquait chez le quincailler de mon quartier. Il manque désormais la base du pied le rendant instable:</p>
+      <p><img src="/assets/images/2023/05/clavinova-base-pied.jpg" alt="Pied du synthétiseur" /></p>
+      <p>J’attend des nouvelles de l’ancien propriétaire pour voir si il ne remet pas la main dessus, mais sinon il va falloir bricoler quelque chose.</p>
+      <p>Le deuxième problème, c’est le fonctionnement du clavier. Il y a des touches dans la partie grave qui ne fonctionnent pas du tout. J’ai donc démonté le clavier pour voir ce qui se passait, ce qui n’était pas chose facile, mais j’ai pu trouvé une vidéo sur YouTube expliquant le truc pour démonter les touches noires, particulièrement coriaces au premier abord:</p>
+      <iframe src="//www.youtube.com/embed/1KuzgXSS1kA?modestbranding=1&amp;showinfo=0&amp;rel=0" style="margin: 0 auto;display:block" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+      </iframe>
+      <h2 id="nettoyage-du-clavier">Nettoyage du clavier</h2>
+      <p>J’ai pu constaté une grand quantité de saleté et de poussière:</p>
+      <p><img src="/assets/images/2023/05/clavinova-clavier-sale.jpg" alt="Clavier sale" /></p>
+      <p>J’ai donc entrepris un démontage complet:</p>
+      <p><img src="/assets/images/2023/05/clavinova-clavier-demonte.jpg" alt="Clavier démonté" /></p>
+      <p>Puis un nettoyage en profondeur:</p>
+      <p><img src="/assets/images/2023/05/clavinova-vaisselle-de-touches.jpg" alt="Vaisselle de touches" /></p>
+      <p><img src="/assets/images/2023/05/clavinova-sechage-de-touches.jpg" alt="Séchage de touches" /></p>
+      <p>Le remontage du clavier a été assez simple mais par contre il faut s’armer de patience pour remettre chaque contrôleur, touche et ailette bien à sa place.</p>
+      <p><img src="/assets/images/2023/05/clavinova-remontage-des-controleurs.jpg" alt="Remontage des contrôleurs" /></p>
+      <p><img src="/assets/images/2023/05/clavinova-remontage-des-touches.jpg" alt="Remontage des touches" /></p>
+      <p>Si les noirs sont toutes identiques, chaque touche blanche est spécifique. La note étant indiquée dessus pour éviter les erreurs, celà ajoute ainsi à cette petite activité manuelle un challenge mélodique assez simple mais distrayant!</p>
+      <p><img src="/assets/images/2023/05/clavinova-remontage-des-ailettes.jpg" alt="Remontage des ailettes" /></p>
+      <p>Je ne saurais que trop vous recommander de vous mettre une bonne bande son avec du synthé. Voici un extrait de ce que j’ai écouté lors de cette phase à la limite de la méditation transcendentale:</p>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0MDv1nMsywCystEzM3LTQh?utm_source=generator&amp;theme=0" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <p>Coté électronique, j’ai également nettoyé les connecteurs à base de bombe contact et d’alcool isopropylique à 99%:</p>
+      <p><img src="/assets/images/2023/05/clavinova-carte-contact.jpg" alt="Carte contact" /></p>
+      <p><img src="/assets/images/2023/05/bombe-contact.jpg" alt="Bombe contact" /></p>
+      <p><img src="/assets/images/2023/05/alcool-isopropylique.jpg" alt="Alcool isopropylique" /></p>
+      <h2 id="premiers-tests">Premiers tests</h2>
+      <p>Alors déjà qu’on soit bien clair, je n’ai pas été aussi loin dans le nettoyage avant de procéder à des tests. J’ai fait plusieurs aller/retour en démontant de façon limité le clavier pour voir si mes actions avaient un impact sur le problème de touche muette.</p>
+      <p>Malheureusement, ça n’a eu aucun impact, mais au vu de la saleté du clavier, j’ai quand même juger utile de le nettoyer complètement pour prévenir de futurs pannes.</p>
+      <p>J’ai alors fait fonctionner le synthétiseur en court-circuitant le clavier:</p>
+      <p><img src="/assets/images/2023/05/clavinova-fonctionnement-eclate.jpg" alt="Fonctionnement éclaté" /></p>
+      <iframe src="//www.youtube.com/embed/-_EDdJL-7tU?modestbranding=1&amp;showinfo=0&amp;rel=0" style="margin: 0 auto;display:block" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+      </iframe>
+      <p>Comme vous pouvez le constater, le problème étant toujours présent, il ne s’agit donc pas d’un problème de clavier mais d’un problème électronique. N’étant à ce moment là pas équipé de mon multimètre, je n’ai pas pu avancer plus loin dans mes tests.</p>
+      <p>En toute honnêteté, bien que les tests effectués avant le nettoyage complet n’aient montré ni amélioration ni détérioration, le nettoyage a entraîné l’apparition de trois problèmes supplémentaires :</p>
+      <ol>
+        <li>Une touche ne remontait pas de façon fluide.</li>
+        <li>Une touche faisait un son plus fort que les autres.</li>
+        <li>Deux touches mitoyennes de touches muette étaient également devenu muette.</li>
+      </ol>
+      <p>J’ai pu facilement régler le premier problème en replaçant correctement l’ailette.</p>
+      <p>Le deuxième problème est connu donc je m’y attelerai dans un deuxième temps car j’ai fini assez tard dans la nuit et j’avais encore une sacré descente à remonter en vélo.</p>
+      <p>Voici d’ailleurs une photo prise sur le retour qui n’a rien à voir avec le thème de cette article, mais dans la mesure où c’est mon blog et qu’il n’y a pas de section commentaire où les petits trolls pourraient venir tout salir, je dois dire que je fais bien ce que je veux:</p>
+      <p><img src="/assets/images/2023/05/cassez-loyers-pas-retraites-le-dream.jpg" alt="Baissez les loyers pas les retraites / Le Dream" /></p>
+      <h2 id="prochains-travaux">Prochains travaux</h2>
+      <p>Je ne compte pas en rester là, car d’une part, j’avoue que cette activité était passionnante. Je suis plutôt habitué à travailler sur ordinateur, or mélanger activité intellectuelle et manuelle est des plus exaltant!</p>
+      <p>Dans les pistes que j’ai, je pense déjà à tester les diodes de la carte contact:</p>
+      <p><img src="/assets/images/2023/05/clavinova-carte-contact-diodes.jpg" alt="Carte contact diodes" /></p>
+      <p>Elles semblent en bonne état, mais bon j’en aurais le coeur net. Il est aussi probable qu’il s’agisse d’un câble du connecteur qui soit endommagé, mes manipulations aurait effectivement pu endommager encore plus cette pièce si elle était déjà défectueuse.</p>
+      <p>D’autre part, j’ai mis la main sur le <a href="/assets/images/2023/05/CLP300_SM_C.pdf">manuel de service</a> et le <a href="/assets/images/2023/05/CLP300_CD_C.tiff">diagrame du circuit</a> :</p>
+      <p><img src="/assets/images/2023/05/CLP300_CD_C.jpg" alt="Schéma du circuit" /></p>
+      <p>Si vous avez un conseil à me donner pour avancer, je suis preneur! Vous pouvez donc me contacter à l’adresse suivante: <a href="mailto:martin@delille.org">martin@delille.org</a></p>
+      ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="musique" /><category term="électronique" /><category term="tuto" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">RecordR</title><link href="/2021/03/31/recordr/" rel="alternate" type="text/html" title="RecordR" /><published>2021-03-31T00:00:00+00:00</published><updated>2021-03-31T00:00:00+00:00</updated><id>/2021/03/31/recordr</id><content type="html" xml:base="/2021/03/31/recordr/"><![CDATA[<iframe src="//www.youtube.com/embed/_m6N9mQYLhU?modestbranding=1&amp;showinfo=0&amp;rel=0" style="margin: 0 auto;display:block" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+    </iframe>
+    <p>Cette vidéo présentant l’un de mes dernières applications.</p>
+    ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="doublage" /><category term="dev" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Tuto pour trier ses playlist YouTube</title><link href="/2021/03/22/tuto-tri-playlist-youtube/" rel="alternate" type="text/html" title="Tuto pour trier ses playlist YouTube" /><published>2021-03-22T00:00:00+00:00</published><updated>2021-03-22T00:00:00+00:00</updated><id>/2021/03/22/tuto-tri-playlist-youtube</id><content type="html" xml:base="/2021/03/22/tuto-tri-playlist-youtube/"><![CDATA[<iframe src="//www.youtube.com/embed/k7vA7eHLgTk?modestbranding=1&amp;showinfo=0&amp;rel=0" style="margin: 0 auto;display:block" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+  </iframe>
+  <p>Tout est dans le titre.</p>
+  ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><category term="tuto" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Tuto pour partager son bureau avec un sac à patate</title><link href="/2020/05/02/tuto-pour-partager-son-bureau-avec-un-sac-a-patate/" rel="alternate" type="text/html" title="Tuto pour partager son bureau avec un sac à patate" /><published>2020-05-02T00:00:00+00:00</published><updated>2020-05-02T00:00:00+00:00</updated><id>/2020/05/02/tuto-pour-partager-son-bureau-avec-un-sac-a-patate</id><content type="html" xml:base="/2020/05/02/tuto-pour-partager-son-bureau-avec-un-sac-a-patate/"><![CDATA[<iframe src="//www.youtube.com/embed/1OCJ4bdA-ik?modestbranding=1&amp;showinfo=0&amp;rel=0" style="margin: 0 auto;display:block" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+  </iframe>
+  <p>Le confinement nous oblige à utiliser des outils 100% numérique pour travailler, et on regrette le temps de la réunion et du bon vieux papier crayon. Voici un moyen low tech pour pallier à ce problème.</p>
+  <p>Vous aurez-besoin des éléments suivants:</p>
+  <ul>
+    <li>Bureau</li>
+    <li>Système de visio conférence (type https://jitsi.org/)</li>
+    <li>Téléphone avec caméra et connexion réseau</li>
+    <li>Lampe d’architecte</li>
+    <li>Sac à patate</li>
+    <li>Pince à linge</li>
+    <li>Papier</li>
+    <li>Crayons</li>
+  </ul>
+  ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><category term="tuto" /><category term="jitsi" /><category term="teletravail" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Visioconférence avec Jitsi: retour d’expérience</title><link href="/2020/05/02/visioconference-avec-jitsi/" rel="alternate" type="text/html" title="Visioconférence avec Jitsi: retour d’expérience" /><published>2020-05-02T00:00:00+00:00</published><updated>2020-05-02T00:00:00+00:00</updated><id>/2020/05/02/visioconference-avec-jitsi</id><content type="html" xml:base="/2020/05/02/visioconference-avec-jitsi/"><![CDATA[<p>Je commence cet article en pleine conférence sur <a href="https://zoom.us">Zoom</a>, une plate-forme de visioconférence très en vogue en cette période de confinement.</p>
+  <p>Je ne suis pas un grand fan de la <em>start up nation</em> de notre cher président et lorsqu’il s’agit d’utiliser un outil, je préfère toujours envisager les alternatives. Or au début du confinement, <a href="https://www.atelier-medias.org/coworkers/thomas-mortagne/">Thomas Mortagne</a>, le responsable du groupe <em>Informatique</em> de mon association <a href="https://www.atelier-medias.org">l’Atelier des Médias</a> a installé une instance du service <a href="https://jitsi.org/">Jitsi</a> sur notre serveur <a href="https://www.ovh.com/">OVH</a>:</p>
+  <p><img src="/assets/images/jitsi.png" alt="Jitsi" /></p>
+  <p>Il fut très agréablement surpris par la simplicité d’installation du service donc la configuration se limitait à deux ou trois manipulations assez basiques.</p>
+  <h2 id="la-cuisine-virtuelle">La cuisine virtuelle</h2>
+  <p>La situation du confinement était problématique pour notre association qui consiste en un lieu de travail en autogestion dont l’objectif est justement de rompre la solitude des télétravailleur.e.s salarié.e.s ou indépendant.e.s.</p>
+  <p>Et si une visioconférence ne vaut pas un vrai rapport humain, c’est toujours mieux qu’une conversation type <em>F…book</em> où il existe un risque de mauvaise interprétation des écrits.</p>
+  <p>Le caractère spontané qui est de mise sur les réseaux sociaux est toujours source de problématique et de conflit.
+    On a tous nos petites histoires à raconter sur le sujet:</p>
+  <iframe style="margin: 0 auto;display:block" src="https://giphy.com/embed/9o9dh1JRGThC1qxGTJ" width="480" height="357" frameborder="0" class="giphy-embed">
+  </iframe>
+  <p>Nous avons donc créé un salon dédié simulant notre regrettée cuisine (moche) en instaurant des horaires de retrouvaille quotidienne. Cela nous permettait de nous retrouver occasionnellement au hasard des connexions.</p>
+  <p>Cet espace s’est révélé particulièrement précieux pour faire part notamment de nos inquiétudes ou espoirs sur l’avenir et ainsi rompre la solitude qui est le lot d’une bonne partie d’entre nous. Pour ceux confinés en famille, ça permettait ainsi de se changer les idées en voyant de nouvelles têtes.</p>
+  <h2 id="le-cabaret-des-coworkers-confinés">Le Cabaret des Coworkers Confinés</h2>
+  <p>Dans un deuxième temps, <a href="https://www.atelier-medias.org/claire-morel-creatrice-editoriale-jaime-rendre-un-sujet-hermetique-facile-a-comprendre/">Claire Morel</a> du groupe <em>Vie Associative</em> dont je fais partie a décidé d’organiser une teuf virtuelle.</p>
+  <p>On s’est pas mal posé de questions sur la faisabilité d’une telle soirée du fait du nombre potentiellement grand d’un tel évènement (en général, on est au moins une trentaine de personnes lors des soirées physique pré confino).</p>
+  <p>Après étude des différentes alternatives payantes ou gratuites, nous avons décidé en concertation avec le groupe informatique de rester sur <em>Jitsi</em>, mais en augmentant la capacité de notre serveur afin qu’il puisse supporter une charge dont nous n’avions pas vraiment d’idée.</p>
+  <p>Au niveau du fonctionnement, l’idée d’un cabaret qui nous trottait déjà dans la tête avant le confinement nous a paru idéale. Ainsi jailli le concept du <em>Cabaret des Coworkers Confinés</em>:</p>
+  <p><img src="/assets/images/cabaret.jpg" alt="Cabaret des Coworkers Confinés" /></p>
+  <p>Cela consista en:</p>
+  <ul>
+    <li>Une animatrice aux mille tenues, clin d’oeil aux speakerines de la télévision sous <a href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Coty">René Cotty</a> qui distribuait les tours de paroles.</li>
+    <li>Une animation ou une vidéo concocté par les coworkers souhaitant dévoiler l’un de leur nombreux talents.</li>
+    <li>Un salon de discussion pour commenter (y’avait mêmes des petits trolls [car c’est souvent là qu’ils se cachent], mais gentils).</li>
+  </ul>
+  <p>Afin de bien m’assurer que tout se passe bien, je me suis fendu d’un petit tuto <em>Youtube</em> explicatif:</p>
+  <iframe src="//www.youtube.com/embed/e4IF-Q_PIzs?modestbranding=1&amp;showinfo=0&amp;rel=0" style="margin: 0 auto;display:block" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+  </iframe>
+  <p>Et voici le résultat:</p>
+  <p><img src="/assets/images/cabaret-mosaique.jpg" alt="Mosaique" /></p>
+  <p><img src="/assets/images/cabaret-guitare.jpg" alt="Guitare" /></p>
+  <p><img src="/assets/images/cabaret-danse-du-gel.jpg" alt="Danse du gel" /></p>
+  <h2 id="le-bilan">Le bilan</h2>
+  <h3 id="les-points-positifs">Les points positifs</h3>
+  <p>Voici la liste des points positifs que nous avons retiré de cette expérience:</p>
+  <ul>
+    <li>Face au confinement, l’association a su rapidement mettre en place une solution pour pallier l’isolement.</li>
+    <li>La simplicité déconcertante d’installation et d’utilisation.</li>
+    <li>La solution maison n’obligeait pas les membres à s’inscrire sur une plateforme type <em>F…book</em>, <em>G..gle</em> ou autres exploitants de données personnelles, qui auraient pu exclure une partie des membres.</li>
+    <li>La possibilité de personnaliser l’interface avec notre logo.</li>
+  </ul>
+  <h3 id="les-points-négatifs">Les points négatifs</h3>
+  <p>Et oui, il ne faut pas se voiler la face, il n’est pas sorti que du positif de cet expérience ce qui m’invite à nuancer la performance de cette outil:</p>
+  <ul>
+    <li>La rigueur que demande l’utilisation de l’outil: en effet, pour le créateur de la salle, il faut s’astreindre à une certaine hygiène en matière d’échange de donnée:
+      <ul>
+        <li>L’utilisateur doit faire attention à maîtriser l’ouverture de son micro pour limiter le bruit ambiant dans la visioconférence (le modérateur peut lui couper le micro si besoin, mais ce n’est pas facile de tout gérer parfois).</li>
+        <li>L’envoi de sa vidéo coûte en bande passante donc est à utiliser avec parcimonie, en particulier lorsqu’on n’est pas connecté en fibre.</li>
+        <li>La qualité vidéo est réglable et la qualité minimum est suffisante pour une bonne interaction (le réglage par défaut permet une qualité pour une diffusion sur une chaîne hertzienne, ce qui est bien au dessus du besoin courant):
+          <img src="/assets/images/jitsi-video-settings.jpg" alt="Réglage vidéo" />
+          <img src="/assets/images/jitsi-video-quality.jpg" alt="Qualité vidéo" /></li>
+        <li>Le modérateur peut configurer la salle pour que les participants arrivent avec le micro et la caméra coupée par défaut:
+          <img src="/assets/images/jitsi-settings-plus.jpg" alt="Réglage plus" /></li>
+      </ul>
+    </li>
+    <li>Les difficultés techniques qu’une personne isolée peut rencontrer peuvent être très frustrantes et mener à l’abandon de la visioconférence.</li>
+    <li>Les droits de modération semblent assez basiques (mais je n’ai pas étudié plus que ça la question) et si pour une raison ou pour une autre, le créateur de la salle doit se déconnecter, il perd la possibilité de modération qui échoit à la deuxième personne qui s’est connectée (c’est ce qu’il s’est passé pendant la soirée, et du coup je ne pouvais plus couper le son des distraits).</li>
+    <li>Nous avons constaté que plus il y avait de participants, plus ça augmentait le flux réseau à absorber et à décoder par chacun. C’est dû à la méthode <a href="https://webrtcglossary.com/sfu/">SFU</a> qu’implémente <em>Jitsi</em> pour répartir les flux de donnée:
+      <img src="/assets/images/webrtc-sfu.jpg" alt="Qualité vidéo" /></li>
+  </ul>
+  <h2 id="conclusion">Conclusion</h2>
+  <p>Est-ce qu’on peut dire après cet article que <em>Jitsi</em> est mieux ou moins bien que <em>Zoom</em> ? C’est bien évidemment impossible de répondre simplement à cette question. Cela dépend déjà de si vous êtes un particulier ou une organisation, ainsi que votre niveau de compétence technique.</p>
+  <p><em>Zoom</em> offre très clairement de bonne performance technique moyennant l’installation d’un logiciel sur son ordinateur car il y a une équipe derrière qui s’assure que tout fonctionne bien. Les comptes <em>Premiums</em> ont bien entendu un accès privilégié et plus de liberté sur l’utilisation de l’outil.</p>
+  <p><em>Jitsi</em> est plus simple d’utilisation pour l’utilisateur à condition qu’il soit bien administré, ce qui n’est pas une tâche facile car cela demande une bonne connaissance de l’outil et du temps.</p>
+  <p>On pourrait presque dire qu’il s’agit d’un choix avec le faux sentiment de sécurité de la solution propriétaire toute faite d’un côté et l’aventure de la gestion locale de l’autre.</p>
+  <p>Je terminerai avec cette citation de <a href="https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine">Mikhaïl Bakounine</a>:</p>
+  <blockquote>
+    <p>La liberté des autres, étend la mienne à l’infini</p>
+  </blockquote>
+  <p>Bon confinement!</p>
+  <p>Martin</p>
+  <p>PS:</p>
+  <p>Pour en savoir plus sur les problèmes avec <em>Zoom</em>:</p>
+  <ul>
+    <li><a href="https://daringfireball.net/2020/03/regarding_zoom">https://daringfireball.net/2020/03/regarding_zoom</a></li>
+    <li><a href="https://info.haas-avocats.com/droit-digital/zoom-a-t-il-deliberement-cache-ses-failles-de-securite">https://info.haas-avocats.com/droit-digital/zoom-a-t-il-deliberement-cache-ses-failles-de-securite</a></li>
+  </ul>
+  ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="jitsi" /><category term="teletravail" /><summary type="html"><![CDATA[Je commence cet article en pleine conférence sur Zoom, une plate-forme de visioconférence très en vogue en cette période de confinement.]]></summary></entry><entry><title type="html">Open Source: Seven years after</title><link href="/2020/04/12/open-source-seven-years-after/" rel="alternate" type="text/html" title="Open Source: Seven years after" /><published>2020-04-12T00:00:00+00:00</published><updated>2020-04-12T00:00:00+00:00</updated><id>/2020/04/12/open-source-seven-years-after</id><content type="html" xml:base="/2020/04/12/open-source-seven-years-after/"><![CDATA[<p>This morning <em>F…book</em> reminded me that seven years ago I pushed <a href="https://github.com/atelierdesmedias/Autofacto">my first open source project</a> on <em>Github</em>. It was not a big project and it isn’t even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won’t last in the history of software but it was a relatevely cool project anyway.</p>
+  <p><img src="/assets/images/opensource.png" alt="Open source logo" /></p>
+  <h2 id="autofacto">Autofacto</h2>
+  <p>My coworker in charge of the accountability of our self-managed coworking space was spending two hours every months to send an invoice to each coworker using a template and filling the appropriate info. It wasn’t a very interesting task but it has to be done because each coworker need a bill for the rent.</p>
+  <p>I remind me thinking on how to automate the process by writing a simple document describing the process. I submited it to my coworkers and one of them wondered why I wanted a validation about changing the process: “If you want to change the way we send bill, just do it!”. Since I had some experience on <a href="https://developers.google.com/apps-script/">Google Apps Script</a>, I managed to easily parse a spreadsheet containing all my colleague information (name, billing adress, formula, …), fill the invoice template, export it in <em>PDF</em> and send it by email.</p>
+  <p>The operation wasn’t slow but wasn’t fast also so I decided to add a fancy color feature allowing my friend to visualize which invoice were processed in real time. Some people will tell you that there is no need for fancy thing in software but when humans are involved you need to give feedback, preferably respecting visual standard.</p>
+  <h2 id="first-publication">First publication</h2>
+  <p>Once finished, I decided to publish my work as an experiment: I had heard about open source software since a few years and I wondered how it worked, why people were doing this, and also why open source software were always so ugly and not user friendly. Were open source software developer bad developer?</p>
+  <p>I also told myself that I wrote this piece of software so why would I hide it? I wasn’t exposing any personal data since the script had to be triggered from the spreadsheet and it was working so there was no reason. On the oposite I spot the following benefit of sharing my work:</p>
+  <ol>
+    <li>Having an auditable invoicing system was a great warranty for my coworker</li>
+    <li>When scientist want to validate an experiment, they publish their work to be validated by their peers</li>
+    <li>If my coworking space advertise the system, we could be add more developer to it from other coworking space and benefit from each other work instead of developing n-times the same thing</li>
+  </ol>
+  <p>In fact this was a little step for our organization but I had the feeling it could be a big step for all coworking spaces in the world: it litterally <em>blew</em> my mind…</p>
+  <h2 id="open-source-mania">Open source mania</h2>
+  <p>I decided to open source everything, then came the shit with <em>Edward Snowden</em> revelation and I had a real crisis with trusting closed source software. I met a lot of people and if some were very interesting (I remember an amazing conference about the <a href="https://www.debian.org/">Debian</a> governance), I was using these two words several time per conversation which made my friends and family freaked out. I was also slowly digging into another reality full of fake news and conspiracy theory due to my addication to <em>F…book</em>.</p>
+  <p>I tried then to find an outlet for my speech by joining <a href="https://radiocanut.org/">Radio Canut</a>, an independent local radio in <em>Lyon</em> powered by its radio hosts, paying for broadcasting. My project was to speak about open source and playing vinyls. I managed to make a pilot that was accepted… the day I realized I couldn’t pay my rent anymore, my owner died and his family were suing me because they had to deal between their mourning and the banks.</p>
+  <p>I had been floating the head in the star and totally forgot about my basis: I fell into a quite deep depression…</p>
+  <h2 id="personal-conclusion">Personal conclusion</h2>
+  <p>Since then I tried to take my distance with what happened but I realised what open source software has brought me:</p>
+  <p>Basically it has been a source of learning of many learning:</p>
+  <ul>
+    <li>I learn how to automate almost everything in the validation process of my software, giving me confidence in each modification I made</li>
+    <li>I learn new language when for example I was using a tool that wasn’t doing exactly what I wanted to do, I sometimes had to implement it by myselft</li>
+    <li>I learn a lot about code quality when trying to make my work accepted by project maintainers</li>
+    <li>I learn to communicate with other developer on the internet which as nothing to do with communicating with other kind of human being were you need to add recurring politeness formula (developer hate unnecessary noise that endangers their concentration)</li>
+  </ul>
+  <p>I also earn a lot of control on systems in general.</p>
+  <p><img src="/assets/images/donquichote.jpg" alt="Don Quichote" /></p>
+  <p>Seven years after, I still have trouble not starting a war against private software but at least I made some concession: we live in a world were private company owns the means of production and I’m not going to change that. I just keep going publishing my work because I still don’t see no valid reason not doing it.</p>
+  <p>My dream is intact then, but I know I’ll always be a weirdo to most people because it would need too much time to explain and people just don’t want to suffer even the sumary of seven years of thought about it so I don’t know if I need to close my source but at least I really need to learn how to shut up and this confinment situation is a good time for that.</p>
+  <h2 id="would-you-cross-the-bridge-">Would you cross the bridge ?</h2>
+  <p>My last questions I would like to ask to you readers:</p>
+  <ul>
+    <li><em>“What are your feeling about publishing its work on the Internet?”</em></li>
+    <li><em>“What danger do you see in it? Which opportunities ?”</em></li>
+  </ul>
+  <p>Thanks for reading until there!</p>
+  ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="opensource" /><category term="github" /><summary type="html"><![CDATA[This morning F…book reminded me that seven years ago I pushed my first open source project on Github. It was not a big project and it isn’t even used anymore, nobody contributed to it except a colleague to advertise its deprecation so it won’t last in the history of software but it was a relatevely cool project anyway.]]></summary></entry><entry><title type="html">Le clip de Les Cocksuckers</title><link href="/2019/12/19/le-clip-de-les-cocksuckers/" rel="alternate" type="text/html" title="Le clip de Les Cocksuckers" /><published>2019-12-19T00:00:00+00:00</published><updated>2019-12-19T00:00:00+00:00</updated><id>/2019/12/19/le-clip-de-les-cocksuckers</id><content type="html" xml:base="/2019/12/19/le-clip-de-les-cocksuckers/"><![CDATA[<iframe src="//www.youtube.com/embed/7619k9WT9XI?modestbranding=1&amp;showinfo=0&amp;rel=0" style="margin: 0 auto;display:block" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+  </iframe>
+  <p>Voici un projet dont je suis pas peu fier: le clip de mon groupe de punk “Les Cocksuckers” dont j’ai fait la réalisation et le montage.</p>
+  <p>Ce projet fait usage de la technique du fond vert et du stop-motion.</p>
+  <p>Production/direction artistique/story board : Les Cocksuckers</p>
+  <ul>
+    <li>Réalisation/montage : Martin Delille</li>
+    <li>Assistante réalisation : Maddie Vella</li>
+    <li>Chef opérateur : Santiago Roel</li>
+    <li>Assistant caméra : Audric Reynaud</li>
+    <li>Scripte : Violette Hyounet</li>
+    <li>Machinistes : Lola Ruet et Thibault David</li>
+    <li>Electro : Hugo Bottin</li>
+    <li>Régisseuse : Justine Broeckaert</li>
+    <li>Catering : Anne Grieci</li>
+    <li>Graphisme : Gregg Suazo</li>
+  </ul>
+  <p>Enregistrement/mixage/mastering : Yannick Marlin, Studio Audiotellus</p>
+  <p>Mécène : Thierry, prêt du hangar du Blogg, lieu de tournage, pendant un week-end.</p>
+  <p>Sponsors : Alexandre Froidefond, Augustin Ayoub, Benoit Saboureault, Brice Lemoine, Jean-Olivier Paissé, Jérémy Thillet, Julien Gamard, MOD, Marcela Lazzari, Marielle Perrin, Marion Hummer, Marina Roel, Nicolas Delille, Thibaut Delille, Corentin Delille, Perrine Demongeot, Pierig Bertho, Remi Parcollet.</p>
+  <p>Figurants : Alexandre Froidefond, Anne Grieci, Christelle Leblanc, Christelle Suazo, David Badin, Franck Mezière, Franck Suazo, Frédéric Camus, Guillaume Guazzeli, Ivan Debay, Jean-Olivier Païssé, Jérémy Thillet, Jerome Lavoile, Jo Mongarny, Julia Pouly, Julie Rieubon, Karin Maréchal, Lilian Thollet, Loïc Horlin, Marie Delore, Nelly Rotat, Nicolas Couplin, Pierre-Edouard Brion, Raphaël Gavoille, Sarah Dutreille, Stéphane Vetzel, Yannick Marlin, Yves Séité.</p>
+  <p>Autres remerciements : The Datsuns, Marine Hennes, Lina, Ludovic Benas, Tristan Defay, le studio Lylo, Myriam Copier, Camille Geoffray, Arno Le Liegard et Transpalux.</p>
+  ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><category term="musique" /><category term="stop-motion" /><category term="trucage" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">DéTourNage</title><link href="/2018/12/09/detournage/" rel="alternate" type="text/html" title="DéTourNage" /><published>2018-12-09T00:00:00+00:00</published><updated>2018-12-09T00:00:00+00:00</updated><id>/2018/12/09/detournage</id><content type="html" xml:base="/2018/12/09/detournage/"><![CDATA[<!-- _includes/vimeo.html -->
+    <div class="image-wrapper">
+      <iframe src="//player.vimeo.com/video/305504959" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+    </div>
+    <p>Ce projet est le fruit d’un atelier d’initiation au doublage organisé par <a href="https://fr.wikipedia.org/wiki/Dominique_Collignon-Maurin">Dominique Collignon-Maurin</a> auquel j’ai participé en temps qu’intervenant technique et comédien.</p>
+    <p>Le résultat a été projeté sur la place du marché d’Alligre dans le 12ème arrondissement, musiciens et comédiens interprétant en direct grâce au système <a href="http:://www.cappella.tv">Cappella</a>.</p>
+    ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="doublage" /><category term="video" /><category term="joker" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Joker</title><link href="/2018/07/18/joker-development/" rel="alternate" type="text/html" title="Joker" /><published>2018-07-18T00:00:00+00:00</published><updated>2018-07-18T00:00:00+00:00</updated><id>/2018/07/18/joker-development</id><content type="html" xml:base="/2018/07/18/joker-development/"><![CDATA[<!-- _includes/vimeo.html -->
+    <div class="image-wrapper">
+      <iframe src="//player.vimeo.com/video/282508684" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+    </div>
+    <p>Voici une vidéo générée avec le logiciel <a href="https://gource.io/">Gource</a> présentant le développement de mon projet <a href="https://github.com/martindelille/Joker">Joker</a>.</p>
+    <p>Ce que j’aime bien dans ce post, outre le fait qu’il utilise 6 tags, signe qu’il est au coeur de mes intérêts, c’est que la réalisation de la vidéo a été à la fois extrêment rapide (quelques dizaines de secondes, et extrêment long (plusieurs années de développement).</p>
+    ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="doublage" /><category term="video" /><category term="joker" /><category term="opensource" /><category term="github" /><category term="dev" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Le Ventilateur de la poussière</title><link href="/2018/04/16/le-ventilateur-de-la-poussiere/" rel="alternate" type="text/html" title="Le Ventilateur de la poussière" /><published>2018-04-16T00:00:00+00:00</published><updated>2018-04-16T00:00:00+00:00</updated><id>/2018/04/16/le-ventilateur-de-la-poussiere</id><content type="html" xml:base="/2018/04/16/le-ventilateur-de-la-poussiere/"><![CDATA[<!-- _includes/vimeo.html -->
+    <div class="image-wrapper">
+      <iframe src="//player.vimeo.com/video/264939481" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+    </div>
+    <p>Film réalisé dans le cadre du festival 48 heures plus tard des Intergalactices à Lyon.</p>
+    ]]></content><author><name>Martin Delille</name><email>martin.delille@gmail.com</email></author><category term="video" /><summary type="html"><![CDATA[]]></summary></entry></feed>
