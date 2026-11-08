@@ -240,7 +240,7 @@ professional:
       description:
         en: A full dubbing solution allowing to write and record the dubbing talents voice using Sony 9 pin protocol to allow Pro Tools synchronisation.
         fr: Une solution complète de doublage permettant l'écriture et l'enregistrement des voix des comédiens de doublage en utilisant le protocol Sony 9 pin pour se synchroniser à un Pro Tools.
-      link: http://www.cappella.tv
+      link: https://www.cappella.tv
       skills:
       - C++
       - OpenGL

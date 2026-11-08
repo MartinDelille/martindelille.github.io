@@ -5,15 +5,16 @@ on: [pull_request]
 jobs:
   run-linters:
     name: Run linters
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
 
     steps:
-      - uses: actions/checkout@v2.0.0
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
-          node-version: '14'
-      - run: npm install
-      - uses: wearerequired/lint-action@v1
+          node-version-file: '.nvmrc'
+      - run: npm ci
+      - uses: wearerequired/lint-action@v3.0.2
         with:
           github_token: ${{ secrets.github_token }}
           stylelint: true
+          stylelint_extensions: scss
