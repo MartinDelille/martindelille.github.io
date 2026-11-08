@@ -3,7 +3,7 @@
 require 'html-proofer'
 
 task :html_proofer do
-  sh 'bundle exec jekyll build'
+  sh 'jekyll build'
   options = {
     assume_extension: true,
     disable_external: true
